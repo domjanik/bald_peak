@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/larsire/bald_peak/issues"
   },
-  "homepage": "https://github.com/larsire/bald_peak#readme"
+  "homepage": "https://github.com/larsire/bald_peak#readme",
+  "dependencies": {
+    "@larsire/common-logger": "0.0.21",
+    "@types/node": "^10.3.2",
+    "eslint": "^5.7.0",
+    "tsc": "^1.20150623.0",
+    "typescript": "^2.8.3"
+  }
 }
