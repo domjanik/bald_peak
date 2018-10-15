@@ -1,0 +1,19 @@
+{
+  "name": "matrix",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsire/bald_peak.git"
+  },
+  "author": "Dominik Janik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsire/bald_peak/issues"
+  },
+  "homepage": "https://github.com/larsire/bald_peak#readme"
+}
