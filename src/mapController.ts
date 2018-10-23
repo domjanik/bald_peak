@@ -1,6 +1,7 @@
 import { creatureModel } from './models/creatureModel';
 import * as logger from "@larsire/common-logger";
 import { creatureController } from './creatureController';
+import * as _ from "lodash";
 
 export class mapController {
     constructor() {
@@ -21,9 +22,13 @@ export class mapController {
         }
     }
 
-    public drawMap(creatureList) {
-        console.log(creatureList);
-        this.map.forEach((row) => {
+    public drawMap(creatureList:Array<creatureModel>) {
+        var mapToDraw = _.cloneDeep(this.map);
+        logger.info("\n\n");
+        creatureList.forEach((creature)=>{
+            mapToDraw[creature.position.axisY][creature.position.axisX] = (creature.alive ? " O " : " X ")
+        })
+        mapToDraw.forEach((row) => {
             logger.info(row);
         })
     }

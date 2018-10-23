@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const logger = require("@larsire/common-logger");
+const _ = require("lodash");
 class mapController {
     constructor() {
         this.width = 10;
@@ -18,8 +19,12 @@ class mapController {
         }
     }
     drawMap(creatureList) {
-        console.log(creatureList);
-        this.map.forEach((row) => {
+        var mapToDraw = _.cloneDeep(this.map);
+        logger.info("\n\n");
+        creatureList.forEach((creature) => {
+            mapToDraw[creature.position.axisY][creature.position.axisX] = (creature.alive ? " O " : " X ");
+        });
+        mapToDraw.forEach((row) => {
             logger.info(row);
         });
     }

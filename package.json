@@ -20,6 +20,7 @@
     "@larsire/common-logger": "0.0.21",
     "@types/node": "^10.3.2",
     "eslint": "^5.7.0",
+    "lodash": "^4.17.11",
     "tsc": "^1.20150623.0",
     "typescript": "^2.8.3"
   }

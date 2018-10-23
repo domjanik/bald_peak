@@ -44,13 +44,15 @@ export class creatureModel {
 
     public move(direction: movementDirection, speedModifier: number = 1) {
         if (direction === movementDirection.down) {
-            this.position.axisY -= this.movementSpeed * speedModifier;
+            if (this.position.axisY > 0)
+                this.position.axisY -= this.movementSpeed * speedModifier;
         }
         else if (direction === movementDirection.up) {
             this.position.axisY += this.movementSpeed * speedModifier;
         }
         else if (direction === movementDirection.left) {
-            this.position.axisX -= this.movementSpeed * speedModifier;
+            if (this.position.axisX > 0)
+                this.position.axisX -= this.movementSpeed * speedModifier;
         }
         else if (direction === movementDirection.right) {
             this.position.axisX += this.movementSpeed * speedModifier;

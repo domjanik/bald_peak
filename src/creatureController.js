@@ -45,7 +45,7 @@ class creatureController {
         this.getCreatureList();
         let that = this;
         let intr = setInterval(function () {
-            that.getCreatureList();
+            //that.getCreatureList();
             that.moveToRandom();
             if (!that.creatureList.find(creature => creature.alive)) {
                 clearInterval(intr);

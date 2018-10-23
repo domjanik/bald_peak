@@ -35,13 +35,15 @@ class creatureModel {
     }
     move(direction, speedModifier = 1) {
         if (direction === contants_1.movementDirection.down) {
-            this.position.axisY -= this.movementSpeed * speedModifier;
+            if (this.position.axisY > 0)
+                this.position.axisY -= this.movementSpeed * speedModifier;
         }
         else if (direction === contants_1.movementDirection.up) {
             this.position.axisY += this.movementSpeed * speedModifier;
         }
         else if (direction === contants_1.movementDirection.left) {
-            this.position.axisX -= this.movementSpeed * speedModifier;
+            if (this.position.axisX > 0)
+                this.position.axisX -= this.movementSpeed * speedModifier;
         }
         else if (direction === contants_1.movementDirection.right) {
             this.position.axisX += this.movementSpeed * speedModifier;

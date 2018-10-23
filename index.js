@@ -10,5 +10,7 @@ creatureMonitor.createNewCreature(120);
 creatureMonitor.createNewCreature(60);
 creatureMonitor.createNewCreature(45);
 creatureMonitor.startMonitoring();
-map.drawMap(creatureMonitor.creatureList);
+let intr = setInterval(function () {
+    map.drawMap(creatureMonitor.creatureList);
+}, 1000);
 //# sourceMappingURL=index.js.map
