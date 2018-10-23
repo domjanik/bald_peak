@@ -39440,3 +39440,1530 @@
 15.9.2018 18:8[Trace]2  |  true  |  33   |   27821
 15.9.2018 18:8[Trace]3  |  true  |  33   |   87821
 15.9.2018 18:8[Trace]4  |  true  |  33   |   12820
+23.9.2018 23:17[Warning]Born!
+23.9.2018 23:17[Warning]Born!
+23.9.2018 23:17[Warning]Born!
+23.9.2018 23:17[Warning]Born!
+23.9.2018 23:17[Warning]Born!
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  1   |   14996
+23.9.2018 23:17[Trace]1  |  true  |  1   |   29998
+23.9.2018 23:17[Trace]2  |  true  |  1   |   59998
+23.9.2018 23:17[Trace]3  |  true  |  1   |   119999
+23.9.2018 23:17[Trace]4  |  true  |  1   |   44999
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  2   |   13995
+23.9.2018 23:17[Trace]1  |  true  |  2   |   28998
+23.9.2018 23:17[Trace]2  |  true  |  2   |   58997
+23.9.2018 23:17[Trace]3  |  true  |  2   |   118998
+23.9.2018 23:17[Trace]4  |  true  |  2   |   43998
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  3   |   12992
+23.9.2018 23:17[Trace]1  |  true  |  3   |   27995
+23.9.2018 23:17[Trace]2  |  true  |  3   |   57994
+23.9.2018 23:17[Trace]3  |  true  |  3   |   117995
+23.9.2018 23:17[Trace]4  |  true  |  3   |   42994
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  4   |   11989
+23.9.2018 23:17[Trace]1  |  true  |  4   |   26991
+23.9.2018 23:17[Trace]2  |  true  |  4   |   56991
+23.9.2018 23:17[Trace]3  |  true  |  4   |   116991
+23.9.2018 23:17[Trace]4  |  true  |  4   |   41991
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  5   |   10985
+23.9.2018 23:17[Trace]1  |  true  |  5   |   25987
+23.9.2018 23:17[Trace]2  |  true  |  5   |   55986
+23.9.2018 23:17[Trace]3  |  true  |  5   |   115987
+23.9.2018 23:17[Trace]4  |  true  |  5   |   40987
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  6   |   9980
+23.9.2018 23:17[Trace]1  |  true  |  6   |   24983
+23.9.2018 23:17[Trace]2  |  true  |  6   |   54982
+23.9.2018 23:17[Trace]3  |  true  |  6   |   114983
+23.9.2018 23:17[Trace]4  |  true  |  6   |   39983
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  7   |   8977
+23.9.2018 23:17[Trace]1  |  true  |  7   |   23980
+23.9.2018 23:17[Trace]2  |  true  |  7   |   53979
+23.9.2018 23:17[Trace]3  |  true  |  7   |   113980
+23.9.2018 23:17[Trace]4  |  true  |  7   |   38979
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  8   |   7974
+23.9.2018 23:17[Trace]1  |  true  |  8   |   22976
+23.9.2018 23:17[Trace]2  |  true  |  8   |   52976
+23.9.2018 23:17[Trace]3  |  true  |  8   |   112976
+23.9.2018 23:17[Trace]4  |  true  |  8   |   37976
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  9   |   6970
+23.9.2018 23:17[Trace]1  |  true  |  9   |   21972
+23.9.2018 23:17[Trace]2  |  true  |  9   |   51972
+23.9.2018 23:17[Trace]3  |  true  |  9   |   111972
+23.9.2018 23:17[Trace]4  |  true  |  9   |   36972
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  10   |   5967
+23.9.2018 23:17[Trace]1  |  true  |  10   |   20969
+23.9.2018 23:17[Trace]2  |  true  |  10   |   50969
+23.9.2018 23:17[Trace]3  |  true  |  10   |   110969
+23.9.2018 23:17[Trace]4  |  true  |  10   |   35969
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  11   |   4963
+23.9.2018 23:17[Trace]1  |  true  |  11   |   19965
+23.9.2018 23:17[Trace]2  |  true  |  11   |   49965
+23.9.2018 23:17[Trace]3  |  true  |  11   |   109965
+23.9.2018 23:17[Trace]4  |  true  |  11   |   34965
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  12   |   3958
+23.9.2018 23:17[Trace]1  |  true  |  12   |   18961
+23.9.2018 23:17[Trace]2  |  true  |  12   |   48960
+23.9.2018 23:17[Trace]3  |  true  |  12   |   108961
+23.9.2018 23:17[Trace]4  |  true  |  12   |   33960
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  13   |   2954
+23.9.2018 23:17[Trace]1  |  true  |  13   |   17957
+23.9.2018 23:17[Trace]2  |  true  |  13   |   47956
+23.9.2018 23:17[Trace]3  |  true  |  13   |   107956
+23.9.2018 23:17[Trace]4  |  true  |  13   |   32956
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  14   |   1950
+23.9.2018 23:17[Trace]1  |  true  |  14   |   16953
+23.9.2018 23:17[Trace]2  |  true  |  14   |   46952
+23.9.2018 23:17[Trace]3  |  true  |  14   |   106952
+23.9.2018 23:17[Trace]4  |  true  |  14   |   31952
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  true  |  15   |   946
+23.9.2018 23:17[Trace]1  |  true  |  15   |   15949
+23.9.2018 23:17[Trace]2  |  true  |  15   |   45948
+23.9.2018 23:17[Trace]3  |  true  |  15   |   105949
+23.9.2018 23:17[Trace]4  |  true  |  15   |   30948
+23.9.2018 23:17[Warning]Death!
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -56
+23.9.2018 23:17[Trace]1  |  true  |  16   |   14946
+23.9.2018 23:17[Trace]2  |  true  |  16   |   44946
+23.9.2018 23:17[Trace]3  |  true  |  16   |   104947
+23.9.2018 23:17[Trace]4  |  true  |  16   |   29947
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -1059
+23.9.2018 23:17[Trace]1  |  true  |  17   |   13944
+23.9.2018 23:17[Trace]2  |  true  |  17   |   43943
+23.9.2018 23:17[Trace]3  |  true  |  17   |   103944
+23.9.2018 23:17[Trace]4  |  true  |  17   |   28943
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -2062
+23.9.2018 23:17[Trace]1  |  true  |  18   |   12940
+23.9.2018 23:17[Trace]2  |  true  |  18   |   42940
+23.9.2018 23:17[Trace]3  |  true  |  18   |   102940
+23.9.2018 23:17[Trace]4  |  true  |  18   |   27939
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -3066
+23.9.2018 23:17[Trace]1  |  true  |  19   |   11936
+23.9.2018 23:17[Trace]2  |  true  |  19   |   41936
+23.9.2018 23:17[Trace]3  |  true  |  19   |   101936
+23.9.2018 23:17[Trace]4  |  true  |  19   |   26935
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -4070
+23.9.2018 23:17[Trace]1  |  true  |  20   |   10932
+23.9.2018 23:17[Trace]2  |  true  |  20   |   40931
+23.9.2018 23:17[Trace]3  |  true  |  20   |   100932
+23.9.2018 23:17[Trace]4  |  true  |  20   |   25931
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -5075
+23.9.2018 23:17[Trace]1  |  true  |  21   |   9928
+23.9.2018 23:17[Trace]2  |  true  |  21   |   39927
+23.9.2018 23:17[Trace]3  |  true  |  21   |   99928
+23.9.2018 23:17[Trace]4  |  true  |  21   |   24927
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -6078
+23.9.2018 23:17[Trace]1  |  true  |  22   |   8924
+23.9.2018 23:17[Trace]2  |  true  |  22   |   38924
+23.9.2018 23:17[Trace]3  |  true  |  22   |   98924
+23.9.2018 23:17[Trace]4  |  true  |  22   |   23924
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -7081
+23.9.2018 23:17[Trace]1  |  true  |  23   |   7921
+23.9.2018 23:17[Trace]2  |  true  |  23   |   37921
+23.9.2018 23:17[Trace]3  |  true  |  23   |   97921
+23.9.2018 23:17[Trace]4  |  true  |  23   |   22921
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -8084
+23.9.2018 23:17[Trace]1  |  true  |  24   |   6919
+23.9.2018 23:17[Trace]2  |  true  |  24   |   36918
+23.9.2018 23:17[Trace]3  |  true  |  24   |   96919
+23.9.2018 23:17[Trace]4  |  true  |  24   |   21918
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -9088
+23.9.2018 23:17[Trace]1  |  true  |  25   |   5915
+23.9.2018 23:17[Trace]2  |  true  |  25   |   35914
+23.9.2018 23:17[Trace]3  |  true  |  25   |   95915
+23.9.2018 23:17[Trace]4  |  true  |  25   |   20914
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -10092
+23.9.2018 23:17[Trace]1  |  true  |  26   |   4911
+23.9.2018 23:17[Trace]2  |  true  |  26   |   34910
+23.9.2018 23:17[Trace]3  |  true  |  26   |   94911
+23.9.2018 23:17[Trace]4  |  true  |  26   |   19910
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -11096
+23.9.2018 23:17[Trace]1  |  true  |  27   |   3907
+23.9.2018 23:17[Trace]2  |  true  |  27   |   33906
+23.9.2018 23:17[Trace]3  |  true  |  27   |   93907
+23.9.2018 23:17[Trace]4  |  true  |  27   |   18906
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -12099
+23.9.2018 23:17[Trace]1  |  true  |  28   |   2903
+23.9.2018 23:17[Trace]2  |  true  |  28   |   32903
+23.9.2018 23:17[Trace]3  |  true  |  28   |   92903
+23.9.2018 23:17[Trace]4  |  true  |  28   |   17903
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -13102
+23.9.2018 23:17[Trace]1  |  true  |  29   |   1900
+23.9.2018 23:17[Trace]2  |  true  |  29   |   31900
+23.9.2018 23:17[Trace]3  |  true  |  29   |   91900
+23.9.2018 23:17[Trace]4  |  true  |  29   |   16900
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -14105
+23.9.2018 23:17[Trace]1  |  true  |  30   |   898
+23.9.2018 23:17[Trace]2  |  true  |  30   |   30897
+23.9.2018 23:17[Trace]3  |  true  |  30   |   90898
+23.9.2018 23:17[Trace]4  |  true  |  30   |   15897
+23.9.2018 23:17[Warning]Death!
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -15108
+23.9.2018 23:17[Trace]1  |  false  |  30   |   -105
+23.9.2018 23:17[Trace]2  |  true  |  31   |   29895
+23.9.2018 23:17[Trace]3  |  true  |  31   |   89896
+23.9.2018 23:17[Trace]4  |  true  |  31   |   14896
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -16110
+23.9.2018 23:17[Trace]1  |  false  |  30   |   -1107
+23.9.2018 23:17[Trace]2  |  true  |  32   |   28892
+23.9.2018 23:17[Trace]3  |  true  |  32   |   88893
+23.9.2018 23:17[Trace]4  |  true  |  32   |   13892
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -17113
+23.9.2018 23:17[Trace]1  |  false  |  30   |   -2111
+23.9.2018 23:17[Trace]2  |  true  |  33   |   27889
+23.9.2018 23:17[Trace]3  |  true  |  33   |   87889
+23.9.2018 23:17[Trace]4  |  true  |  33   |   12889
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -18116
+23.9.2018 23:17[Trace]1  |  false  |  30   |   -3114
+23.9.2018 23:17[Trace]2  |  true  |  34   |   26886
+23.9.2018 23:17[Trace]3  |  true  |  34   |   86887
+23.9.2018 23:17[Trace]4  |  true  |  34   |   11887
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -19118
+23.9.2018 23:17[Trace]1  |  false  |  30   |   -4116
+23.9.2018 23:17[Trace]2  |  true  |  35   |   25883
+23.9.2018 23:17[Trace]3  |  true  |  35   |   85884
+23.9.2018 23:17[Trace]4  |  true  |  35   |   10883
+23.9.2018 23:17[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:17[Trace]0  |  false  |  15   |   -20124
+23.9.2018 23:17[Trace]1  |  false  |  30   |   -5121
+23.9.2018 23:17[Trace]2  |  true  |  36   |   24878
+23.9.2018 23:17[Trace]3  |  true  |  36   |   84878
+23.9.2018 23:17[Trace]4  |  true  |  36   |   9877
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -21128
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -6126
+23.9.2018 23:18[Trace]2  |  true  |  37   |   23874
+23.9.2018 23:18[Trace]3  |  true  |  37   |   83874
+23.9.2018 23:18[Trace]4  |  true  |  37   |   8873
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -22132
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -7130
+23.9.2018 23:18[Trace]2  |  true  |  38   |   22870
+23.9.2018 23:18[Trace]3  |  true  |  38   |   82870
+23.9.2018 23:18[Trace]4  |  true  |  38   |   7869
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -23136
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -8133
+23.9.2018 23:18[Trace]2  |  true  |  39   |   21866
+23.9.2018 23:18[Trace]3  |  true  |  39   |   81867
+23.9.2018 23:18[Trace]4  |  true  |  39   |   6866
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -24138
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -9136
+23.9.2018 23:18[Trace]2  |  true  |  40   |   20864
+23.9.2018 23:18[Trace]3  |  true  |  40   |   80865
+23.9.2018 23:18[Trace]4  |  true  |  40   |   5865
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -25140
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -10138
+23.9.2018 23:18[Trace]2  |  true  |  41   |   19862
+23.9.2018 23:18[Trace]3  |  true  |  41   |   79862
+23.9.2018 23:18[Trace]4  |  true  |  41   |   4861
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -26145
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -11143
+23.9.2018 23:18[Trace]2  |  true  |  42   |   18856
+23.9.2018 23:18[Trace]3  |  true  |  42   |   78856
+23.9.2018 23:18[Trace]4  |  true  |  42   |   3855
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -27149
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -12147
+23.9.2018 23:18[Trace]2  |  true  |  43   |   17853
+23.9.2018 23:18[Trace]3  |  true  |  43   |   77853
+23.9.2018 23:18[Trace]4  |  true  |  43   |   2853
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -28153
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -13150
+23.9.2018 23:18[Trace]2  |  true  |  44   |   16849
+23.9.2018 23:18[Trace]3  |  true  |  44   |   76850
+23.9.2018 23:18[Trace]4  |  true  |  44   |   1850
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -29155
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -14153
+23.9.2018 23:18[Trace]2  |  true  |  45   |   15847
+23.9.2018 23:18[Trace]3  |  true  |  45   |   75847
+23.9.2018 23:18[Trace]4  |  true  |  45   |   847
+23.9.2018 23:18[Warning]Death!
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -30158
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -15155
+23.9.2018 23:18[Trace]2  |  true  |  46   |   14844
+23.9.2018 23:18[Trace]3  |  true  |  46   |   74844
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -156
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -31163
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -16161
+23.9.2018 23:18[Trace]2  |  true  |  47   |   13839
+23.9.2018 23:18[Trace]3  |  true  |  47   |   73839
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -1161
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -32166
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -17163
+23.9.2018 23:18[Trace]2  |  true  |  48   |   12836
+23.9.2018 23:18[Trace]3  |  true  |  48   |   72837
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -2164
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -33169
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -18166
+23.9.2018 23:18[Trace]2  |  true  |  49   |   11833
+23.9.2018 23:18[Trace]3  |  true  |  49   |   71834
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -3166
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -34172
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -19170
+23.9.2018 23:18[Trace]2  |  true  |  50   |   10830
+23.9.2018 23:18[Trace]3  |  true  |  50   |   70830
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -4170
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -35176
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -20173
+23.9.2018 23:18[Trace]2  |  true  |  51   |   9827
+23.9.2018 23:18[Trace]3  |  true  |  51   |   69828
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -5172
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -36177
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -21174
+23.9.2018 23:18[Trace]2  |  true  |  52   |   8826
+23.9.2018 23:18[Trace]3  |  true  |  52   |   68827
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -6173
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -37177
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -22174
+23.9.2018 23:18[Trace]2  |  true  |  53   |   7825
+23.9.2018 23:18[Trace]3  |  true  |  53   |   67826
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -7174
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -38179
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -23177
+23.9.2018 23:18[Trace]2  |  true  |  54   |   6823
+23.9.2018 23:18[Trace]3  |  true  |  54   |   66823
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -8177
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -39182
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -24179
+23.9.2018 23:18[Trace]2  |  true  |  55   |   5820
+23.9.2018 23:18[Trace]3  |  true  |  55   |   65821
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -9179
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -40184
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -25181
+23.9.2018 23:18[Trace]2  |  true  |  56   |   4819
+23.9.2018 23:18[Trace]3  |  true  |  56   |   64819
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -10181
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -41186
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -26184
+23.9.2018 23:18[Trace]2  |  true  |  57   |   3815
+23.9.2018 23:18[Trace]3  |  true  |  57   |   63816
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -11185
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -42189
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -27186
+23.9.2018 23:18[Trace]2  |  true  |  58   |   2813
+23.9.2018 23:18[Trace]3  |  true  |  58   |   62814
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -12186
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -43191
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -28189
+23.9.2018 23:18[Trace]2  |  true  |  59   |   1811
+23.9.2018 23:18[Trace]3  |  true  |  59   |   61811
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -13189
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -44195
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -29193
+23.9.2018 23:18[Trace]2  |  true  |  60   |   807
+23.9.2018 23:18[Trace]3  |  true  |  60   |   60807
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -14194
+23.9.2018 23:18[Warning]Death!
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -45199
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -30196
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -197
+23.9.2018 23:18[Trace]3  |  true  |  61   |   59804
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -15196
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -46202
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -31200
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -1200
+23.9.2018 23:18[Trace]3  |  true  |  62   |   58800
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -16200
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -47206
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -32204
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -2204
+23.9.2018 23:18[Trace]3  |  true  |  63   |   57796
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -17205
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -48210
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -33208
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -3208
+23.9.2018 23:18[Trace]3  |  true  |  64   |   56792
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -18208
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -49214
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -34211
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -4212
+23.9.2018 23:18[Trace]3  |  true  |  65   |   55788
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -19212
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -50217
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -35215
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -5216
+23.9.2018 23:18[Trace]3  |  true  |  66   |   54785
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -20215
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -51221
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -36219
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -6219
+23.9.2018 23:18[Trace]3  |  true  |  67   |   53781
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -21219
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -52225
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -37223
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -7223
+23.9.2018 23:18[Trace]3  |  true  |  68   |   52777
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -22224
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -53230
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -38228
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -8229
+23.9.2018 23:18[Trace]3  |  true  |  69   |   51772
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -23228
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -54234
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -39232
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -9233
+23.9.2018 23:18[Trace]3  |  true  |  70   |   50768
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -24233
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -55239
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -40237
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -10237
+23.9.2018 23:18[Trace]3  |  true  |  71   |   49764
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -25237
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -56242
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -41240
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -11241
+23.9.2018 23:18[Trace]3  |  true  |  72   |   48759
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -26241
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -57248
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -42246
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -12247
+23.9.2018 23:18[Trace]3  |  true  |  73   |   47754
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -27246
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -58251
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -43249
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -13249
+23.9.2018 23:18[Trace]3  |  true  |  74   |   46751
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -28249
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -59254
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -44251
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -14252
+23.9.2018 23:18[Trace]3  |  true  |  75   |   45749
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -29252
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -60258
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -45255
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -15256
+23.9.2018 23:18[Trace]3  |  true  |  76   |   44745
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -30256
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -61262
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -46260
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -16260
+23.9.2018 23:18[Trace]3  |  true  |  77   |   43740
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -31260
+23.9.2018 23:18[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:18[Trace]0  |  false  |  15   |   -62266
+23.9.2018 23:18[Trace]1  |  false  |  30   |   -47263
+23.9.2018 23:18[Trace]2  |  false  |  60   |   -17264
+23.9.2018 23:18[Trace]3  |  true  |  78   |   42737
+23.9.2018 23:18[Trace]4  |  false  |  45   |   -32264
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:35[Trace]0  |  true  |  1   |   14999
+23.9.2018 23:35[Trace]1  |  true  |  1   |   29999
+23.9.2018 23:35[Trace]2  |  true  |  1   |   59999
+23.9.2018 23:35[Trace]3  |  true  |  1   |   119999
+23.9.2018 23:35[Trace]4  |  true  |  1   |   44999
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:35[Trace]0  |  true  |  2   |   13995
+23.9.2018 23:35[Trace]1  |  true  |  2   |   28995
+23.9.2018 23:35[Trace]2  |  true  |  2   |   58995
+23.9.2018 23:35[Trace]3  |  true  |  2   |   118994
+23.9.2018 23:35[Trace]4  |  true  |  2   |   43993
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left
+23.9.2018 23:35[Trace]0  |  true  |  3   |   12989
+23.9.2018 23:35[Trace]1  |  true  |  3   |   27990
+23.9.2018 23:35[Trace]2  |  true  |  3   |   57989
+23.9.2018 23:35[Trace]3  |  true  |  3   |   117989
+23.9.2018 23:35[Trace]4  |  true  |  3   |   42988
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  1   |   14993 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  1   |   29995 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  1   |   59995 | 0 | 0
+23.9.2018 23:35[Trace]3  |  true  |  1   |   119996 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  1   |   44997 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  2   |   13989 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  2   |   28980 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  2   |   58980 | 0 | 0
+23.9.2018 23:35[Trace]3  |  true  |  2   |   118981 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  2   |   43981 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  3   |   12973 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  3   |   27975 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  3   |   57975 | NaN | 0
+23.9.2018 23:35[Trace]3  |  true  |  3   |   117975 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  3   |   42976 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  4   |   11969 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  4   |   26971 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  4   |   56972 | NaN | 0
+23.9.2018 23:35[Trace]3  |  true  |  4   |   116973 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  4   |   41974 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  5   |   10967 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  5   |   25970 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  5   |   55971 | NaN | 0
+23.9.2018 23:35[Trace]3  |  true  |  5   |   115971 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  5   |   40972 | 0 | 0
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:35[Trace]3  |  true  |  1   |   120000 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  1   |   45000 | 0 | 0
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Warning]Born!
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:35[Trace]3  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  2   |   13995 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  2   |   28996 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:35[Trace]3  |  true  |  2   |   118995 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  2   |   43994 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  3   |   12989 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  3   |   27989 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  3   |   57989 | -1 | 0
+23.9.2018 23:35[Trace]3  |  true  |  3   |   117988 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  3   |   42987 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  4   |   11985 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  4   |   26974 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  4   |   56973 | -2 | 0
+23.9.2018 23:35[Trace]3  |  true  |  4   |   116972 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  4   |   41972 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  5   |   10969 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  5   |   25969 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  5   |   55968 | -3 | 0
+23.9.2018 23:35[Trace]3  |  true  |  5   |   115968 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  5   |   40967 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  6   |   9965 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  6   |   24966 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  6   |   54966 | -4 | 0
+23.9.2018 23:35[Trace]3  |  true  |  6   |   114965 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  6   |   39965 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  7   |   8962 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  7   |   23962 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  7   |   53962 | -5 | 0
+23.9.2018 23:35[Trace]3  |  true  |  7   |   113961 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  7   |   38961 | 0 | 0
+23.9.2018 23:35[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:35[Trace]0  |  true  |  8   |   7958 | 0 | 0
+23.9.2018 23:35[Trace]1  |  true  |  8   |   22958 | 0 | 0
+23.9.2018 23:35[Trace]2  |  true  |  8   |   52957 | -6 | 0
+23.9.2018 23:35[Trace]3  |  true  |  8   |   112957 | 0 | 0
+23.9.2018 23:35[Trace]4  |  true  |  8   |   37956 | 0 | 0
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:38[Trace]3  |  true  |  1   |   120000 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  1   |   45000 | 0 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  2   |   13995 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  2   |   28995 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:38[Trace]3  |  true  |  2   |   118995 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  2   |   43995 | 0 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  3   |   12989 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  3   |   27990 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  3   |   57989 | -1 | 0
+23.9.2018 23:38[Trace]3  |  true  |  3   |   117989 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  3   |   42989 | 0 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  4   |   11985 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  4   |   26986 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  4   |   56985 | -2 | 0
+23.9.2018 23:38[Trace]3  |  true  |  4   |   116985 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  4   |   41985 | 0 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  5   |   10981 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  5   |   25981 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  5   |   55981 | -3 | 0
+23.9.2018 23:38[Trace]3  |  true  |  5   |   115981 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  5   |   40981 | 0 | 0
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Warning]Born!
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  1   |   29998 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:38[Trace]3  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  2   |   13994 | 0 | 0
+23.9.2018 23:38[Trace]1  |  true  |  2   |   28994 | 0 | 0
+23.9.2018 23:38[Trace]2  |  true  |  2   |   58994 | 0 | 0
+23.9.2018 23:38[Trace]3  |  true  |  2   |   118994 | 0 | 0
+23.9.2018 23:38[Trace]4  |  true  |  2   |   43993 | 0 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  3   |   12988 | 0 | -1
+23.9.2018 23:38[Trace]1  |  true  |  3   |   27988 | 0 | -1
+23.9.2018 23:38[Trace]2  |  true  |  3   |   57989 | -1 | 0
+23.9.2018 23:38[Trace]3  |  true  |  3   |   117988 | 0 | 1
+23.9.2018 23:38[Trace]4  |  true  |  3   |   42988 | 0 | 1
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  4   |   11983 | -1 | -1
+23.9.2018 23:38[Trace]1  |  true  |  4   |   26983 | 1 | -1
+23.9.2018 23:38[Trace]2  |  true  |  4   |   56984 | 0 | 0
+23.9.2018 23:38[Trace]3  |  true  |  4   |   116983 | 1 | 1
+23.9.2018 23:38[Trace]4  |  true  |  4   |   41983 | 1 | 1
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  5   |   10980 | -1 | -2
+23.9.2018 23:38[Trace]1  |  true  |  5   |   25981 | 2 | -1
+23.9.2018 23:38[Trace]2  |  true  |  5   |   55981 | 0 | 1
+23.9.2018 23:38[Trace]3  |  true  |  5   |   115981 | 1 | 2
+23.9.2018 23:38[Trace]4  |  true  |  5   |   40981 | 2 | 1
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  6   |   9977 | -1 | -3
+23.9.2018 23:38[Trace]1  |  true  |  6   |   24977 | 3 | -1
+23.9.2018 23:38[Trace]2  |  true  |  6   |   54978 | 0 | 2
+23.9.2018 23:38[Trace]3  |  true  |  6   |   114977 | 2 | 2
+23.9.2018 23:38[Trace]4  |  true  |  6   |   39977 | 3 | 1
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  7   |   8974 | -1 | -4
+23.9.2018 23:38[Trace]1  |  true  |  7   |   23974 | 2 | -1
+23.9.2018 23:38[Trace]2  |  true  |  7   |   53975 | 0 | 3
+23.9.2018 23:38[Trace]3  |  true  |  7   |   113974 | 3 | 2
+23.9.2018 23:38[Trace]4  |  true  |  7   |   38974 | 3 | 0
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  8   |   7971 | -1 | -3
+23.9.2018 23:38[Trace]1  |  true  |  8   |   22971 | 3 | -1
+23.9.2018 23:38[Trace]2  |  true  |  8   |   52971 | 1 | 3
+23.9.2018 23:38[Trace]3  |  true  |  8   |   112971 | 3 | 3
+23.9.2018 23:38[Trace]4  |  true  |  8   |   37971 | 3 | 1
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  9   |   6968 | -2 | -3
+23.9.2018 23:38[Trace]1  |  true  |  9   |   21957 | 3 | 0
+23.9.2018 23:38[Trace]2  |  true  |  9   |   51957 | 1 | 4
+23.9.2018 23:38[Trace]3  |  true  |  9   |   111957 | 3 | 2
+23.9.2018 23:38[Trace]4  |  true  |  9   |   36956 | 4 | 1
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  10   |   5953 | -1 | -3
+23.9.2018 23:38[Trace]1  |  true  |  10   |   20953 | 3 | 1
+23.9.2018 23:38[Trace]2  |  true  |  10   |   50954 | 2 | 4
+23.9.2018 23:38[Trace]3  |  true  |  10   |   110953 | 3 | 3
+23.9.2018 23:38[Trace]4  |  true  |  10   |   35953 | 4 | 2
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  11   |   4950 | 0 | -3
+23.9.2018 23:38[Trace]1  |  true  |  11   |   19950 | 4 | 1
+23.9.2018 23:38[Trace]2  |  true  |  11   |   49950 | 2 | 5
+23.9.2018 23:38[Trace]3  |  true  |  11   |   109950 | 4 | 3
+23.9.2018 23:38[Trace]4  |  true  |  11   |   34949 | 3 | 2
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  12   |   3946 | 0 | -2
+23.9.2018 23:38[Trace]1  |  true  |  12   |   18946 | 4 | 0
+23.9.2018 23:38[Trace]2  |  true  |  12   |   48946 | 3 | 5
+23.9.2018 23:38[Trace]3  |  true  |  12   |   108946 | 5 | 3
+23.9.2018 23:38[Trace]4  |  true  |  12   |   33945 | 3 | 3
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  13   |   2942 | 0 | -3
+23.9.2018 23:38[Trace]1  |  true  |  13   |   17942 | 4 | 1
+23.9.2018 23:38[Trace]2  |  true  |  13   |   47943 | 2 | 5
+23.9.2018 23:38[Trace]3  |  true  |  13   |   107942 | 5 | 4
+23.9.2018 23:38[Trace]4  |  true  |  13   |   32942 | 3 | 4
+23.9.2018 23:38[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:38[Trace]0  |  true  |  14   |   1938 | 0 | -4
+23.9.2018 23:38[Trace]1  |  true  |  14   |   16938 | 4 | 0
+23.9.2018 23:38[Trace]2  |  true  |  14   |   46939 | 2 | 6
+23.9.2018 23:38[Trace]3  |  true  |  14   |   106938 | 6 | 4
+23.9.2018 23:38[Trace]4  |  true  |  14   |   31938 | 3 | 3
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  15   |   934 | 0 | -3
+23.9.2018 23:39[Trace]1  |  true  |  15   |   15934 | 4 | 1
+23.9.2018 23:39[Trace]2  |  true  |  15   |   45934 | 1 | 6
+23.9.2018 23:39[Trace]3  |  true  |  15   |   105934 | 6 | 3
+23.9.2018 23:39[Trace]4  |  true  |  15   |   30934 | 3 | 4
+23.9.2018 23:39[Warning]Death!
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -69 | 0 | -2
+23.9.2018 23:39[Trace]1  |  true  |  16   |   14931 | 4 | 2
+23.9.2018 23:39[Trace]2  |  true  |  16   |   44932 | 1 | 5
+23.9.2018 23:39[Trace]3  |  true  |  16   |   104932 | 6 | 4
+23.9.2018 23:39[Trace]4  |  true  |  16   |   29932 | 4 | 4
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -1072 | 0 | -1
+23.9.2018 23:39[Trace]1  |  true  |  17   |   13929 | 3 | 2
+23.9.2018 23:39[Trace]2  |  true  |  17   |   43929 | 1 | 4
+23.9.2018 23:39[Trace]3  |  true  |  17   |   103929 | 6 | 3
+23.9.2018 23:39[Trace]4  |  true  |  17   |   28928 | 5 | 4
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -2075 | 0 | 0
+23.9.2018 23:39[Trace]1  |  true  |  18   |   12926 | 3 | 3
+23.9.2018 23:39[Trace]2  |  true  |  18   |   42926 | 1 | 3
+23.9.2018 23:39[Trace]3  |  true  |  18   |   102926 | 7 | 3
+23.9.2018 23:39[Trace]4  |  true  |  18   |   27925 | 5 | 3
+23.9.2018 23:39[Warning]Born!
+23.9.2018 23:39[Warning]Born!
+23.9.2018 23:39[Warning]Born!
+23.9.2018 23:39[Warning]Born!
+23.9.2018 23:39[Warning]Born!
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:39[Trace]1  |  true  |  1   |   29998 | 0 | 0
+23.9.2018 23:39[Trace]2  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:39[Trace]3  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:39[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  2   |   13996 | 0 | 0
+23.9.2018 23:39[Trace]1  |  true  |  2   |   28997 | 0 | 0
+23.9.2018 23:39[Trace]2  |  true  |  2   |   58997 | 0 | 0
+23.9.2018 23:39[Trace]3  |  true  |  2   |   118997 | 0 | 0
+23.9.2018 23:39[Trace]4  |  true  |  2   |   43996 | 0 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  3   |   12991 | -1 | 0
+23.9.2018 23:39[Trace]1  |  true  |  3   |   27991 | 0 | -1
+23.9.2018 23:39[Trace]2  |  true  |  3   |   57992 | 0 | 1
+23.9.2018 23:39[Trace]3  |  true  |  3   |   117991 | 0 | 1
+23.9.2018 23:39[Trace]4  |  true  |  3   |   42991 | 1 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  4   |   11987 | -1 | 1
+23.9.2018 23:39[Trace]1  |  true  |  4   |   26987 | 0 | 0
+23.9.2018 23:39[Trace]2  |  true  |  4   |   56988 | 0 | 0
+23.9.2018 23:39[Trace]3  |  true  |  4   |   116987 | 1 | 1
+23.9.2018 23:39[Trace]4  |  true  |  4   |   41987 | 0 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  5   |   10984 | -1 | 0
+23.9.2018 23:39[Trace]1  |  true  |  5   |   25984 | 0 | -1
+23.9.2018 23:39[Trace]2  |  true  |  5   |   55984 | 0 | 1
+23.9.2018 23:39[Trace]3  |  true  |  5   |   115984 | 1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  5   |   40983 | -1 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  6   |   9979 | 0 | 0
+23.9.2018 23:39[Trace]1  |  true  |  6   |   24980 | -1 | -1
+23.9.2018 23:39[Trace]2  |  true  |  6   |   54980 | 0 | 0
+23.9.2018 23:39[Trace]3  |  true  |  6   |   114980 | 1 | 1
+23.9.2018 23:39[Trace]4  |  true  |  6   |   39979 | -1 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  7   |   8975 | 1 | 0
+23.9.2018 23:39[Trace]1  |  true  |  7   |   23965 | -1 | 0
+23.9.2018 23:39[Trace]2  |  true  |  7   |   53965 | 1 | 0
+23.9.2018 23:39[Trace]3  |  true  |  7   |   113964 | 0 | 1
+23.9.2018 23:39[Trace]4  |  true  |  7   |   38964 | -2 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  8   |   7961 | 1 | 1
+23.9.2018 23:39[Trace]1  |  true  |  8   |   22962 | -1 | 1
+23.9.2018 23:39[Trace]2  |  true  |  8   |   52962 | 1 | -1
+23.9.2018 23:39[Trace]3  |  true  |  8   |   112962 | 1 | 1
+23.9.2018 23:39[Trace]4  |  true  |  8   |   37961 | -2 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  9   |   6958 | 0 | 1
+23.9.2018 23:39[Trace]1  |  true  |  9   |   21959 | -2 | 1
+23.9.2018 23:39[Trace]2  |  true  |  9   |   51960 | 1 | -2
+23.9.2018 23:39[Trace]3  |  true  |  9   |   111960 | 0 | 1
+23.9.2018 23:39[Trace]4  |  true  |  9   |   36960 | -1 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  10   |   5957 | 1 | 1
+23.9.2018 23:39[Trace]1  |  true  |  10   |   20958 | -1 | 1
+23.9.2018 23:39[Trace]2  |  true  |  10   |   50958 | 0 | -2
+23.9.2018 23:39[Trace]3  |  true  |  10   |   110958 | 0 | 0
+23.9.2018 23:39[Trace]4  |  true  |  10   |   35957 | -2 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  11   |   4953 | 1 | 0
+23.9.2018 23:39[Trace]1  |  true  |  11   |   19954 | -2 | 1
+23.9.2018 23:39[Trace]2  |  true  |  11   |   49954 | 0 | -3
+23.9.2018 23:39[Trace]3  |  true  |  11   |   109954 | 1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  11   |   34953 | -2 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  12   |   3947 | 1 | -1
+23.9.2018 23:39[Trace]1  |  true  |  12   |   18936 | -2 | 0
+23.9.2018 23:39[Trace]2  |  true  |  12   |   48937 | 0 | -4
+23.9.2018 23:39[Trace]3  |  true  |  12   |   108936 | 1 | -1
+23.9.2018 23:39[Trace]4  |  true  |  12   |   33936 | -2 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  13   |   2931 | 2 | -1
+23.9.2018 23:39[Trace]1  |  true  |  13   |   17932 | -1 | 0
+23.9.2018 23:39[Trace]2  |  true  |  13   |   47932 | 0 | -3
+23.9.2018 23:39[Trace]3  |  true  |  13   |   107932 | 1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  13   |   32931 | -2 | 1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  14   |   1928 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  14   |   16928 | 0 | 0
+23.9.2018 23:39[Trace]2  |  true  |  14   |   46928 | 0 | -4
+23.9.2018 23:39[Trace]3  |  true  |  14   |   106928 | 1 | 1
+23.9.2018 23:39[Trace]4  |  true  |  14   |   31927 | -3 | 1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  true  |  15   |   924 | 4 | -1
+23.9.2018 23:39[Trace]1  |  true  |  15   |   15924 | 0 | -1
+23.9.2018 23:39[Trace]2  |  true  |  15   |   45924 | -1 | -4
+23.9.2018 23:39[Trace]3  |  true  |  15   |   105924 | 1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  15   |   30923 | -2 | 1
+23.9.2018 23:39[Warning]Death!
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -80 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  16   |   14921 | -1 | -1
+23.9.2018 23:39[Trace]2  |  true  |  16   |   44922 | -1 | -3
+23.9.2018 23:39[Trace]3  |  true  |  16   |   104922 | 0 | 0
+23.9.2018 23:39[Trace]4  |  true  |  16   |   29922 | -1 | 1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -1081 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  17   |   13919 | 0 | -1
+23.9.2018 23:39[Trace]2  |  true  |  17   |   43919 | 0 | -3
+23.9.2018 23:39[Trace]3  |  true  |  17   |   103919 | 1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  17   |   28918 | -1 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -2085 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  18   |   12916 | 1 | -1
+23.9.2018 23:39[Trace]2  |  true  |  18   |   42916 | 1 | -3
+23.9.2018 23:39[Trace]3  |  true  |  18   |   102916 | 0 | 0
+23.9.2018 23:39[Trace]4  |  true  |  18   |   27915 | -1 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -3088 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  19   |   11912 | 1 | -2
+23.9.2018 23:39[Trace]2  |  true  |  19   |   41913 | 2 | -3
+23.9.2018 23:39[Trace]3  |  true  |  19   |   101912 | -1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  19   |   26911 | -2 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -4092 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  20   |   10908 | 2 | -2
+23.9.2018 23:39[Trace]2  |  true  |  20   |   40908 | 3 | -3
+23.9.2018 23:39[Trace]3  |  true  |  20   |   100908 | -1 | -1
+23.9.2018 23:39[Trace]4  |  true  |  20   |   25907 | -2 | -2
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -5096 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  21   |   9904 | 2 | -3
+23.9.2018 23:39[Trace]2  |  true  |  21   |   39904 | 2 | -3
+23.9.2018 23:39[Trace]3  |  true  |  21   |   99904 | -1 | 0
+23.9.2018 23:39[Trace]4  |  true  |  21   |   24903 | -1 | -2
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -6101 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  22   |   8900 | 1 | -3
+23.9.2018 23:39[Trace]2  |  true  |  22   |   38900 | 3 | -3
+23.9.2018 23:39[Trace]3  |  true  |  22   |   98900 | -1 | -1
+23.9.2018 23:39[Trace]4  |  true  |  22   |   23900 | -1 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -7103 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  23   |   7897 | 2 | -3
+23.9.2018 23:39[Trace]2  |  true  |  23   |   37898 | 4 | -3
+23.9.2018 23:39[Trace]3  |  true  |  23   |   97897 | -1 | -2
+23.9.2018 23:39[Trace]4  |  true  |  23   |   22897 | -1 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -8107 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  24   |   6893 | 3 | -3
+23.9.2018 23:39[Trace]2  |  true  |  24   |   36894 | 5 | -3
+23.9.2018 23:39[Trace]3  |  true  |  24   |   96893 | -1 | -1
+23.9.2018 23:39[Trace]4  |  true  |  24   |   21893 | -1 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -9112 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  25   |   5877 | 2 | -3
+23.9.2018 23:39[Trace]2  |  true  |  25   |   35877 | 4 | -3
+23.9.2018 23:39[Trace]3  |  true  |  25   |   95876 | 0 | -1
+23.9.2018 23:39[Trace]4  |  true  |  25   |   20875 | -2 | -1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -10128 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  26   |   4872 | 1 | -3
+23.9.2018 23:39[Trace]2  |  true  |  26   |   34873 | 3 | -3
+23.9.2018 23:39[Trace]3  |  true  |  26   |   94872 | 0 | -2
+23.9.2018 23:39[Trace]4  |  true  |  26   |   19872 | -2 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -11131 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  27   |   3870 | 0 | -3
+23.9.2018 23:39[Trace]2  |  true  |  27   |   33871 | 3 | -4
+23.9.2018 23:39[Trace]3  |  true  |  27   |   93870 | -1 | -2
+23.9.2018 23:39[Trace]4  |  true  |  27   |   18870 | -3 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -12133 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  28   |   2867 | 1 | -3
+23.9.2018 23:39[Trace]2  |  true  |  28   |   32867 | 4 | -4
+23.9.2018 23:39[Trace]3  |  true  |  28   |   92867 | 0 | -2
+23.9.2018 23:39[Trace]4  |  true  |  28   |   17866 | -3 | 1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -13137 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  29   |   1863 | 2 | -3
+23.9.2018 23:39[Trace]2  |  true  |  29   |   31864 | 5 | -4
+23.9.2018 23:39[Trace]3  |  true  |  29   |   91863 | 1 | -2
+23.9.2018 23:39[Trace]4  |  true  |  29   |   16863 | -2 | 1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -14142 | 3 | -1
+23.9.2018 23:39[Trace]1  |  true  |  30   |   847 | 2 | -4
+23.9.2018 23:39[Trace]2  |  true  |  30   |   30848 | 4 | -4
+23.9.2018 23:39[Trace]3  |  true  |  30   |   90848 | 2 | -2
+23.9.2018 23:39[Trace]4  |  true  |  30   |   15847 | -3 | 1
+23.9.2018 23:39[Warning]Death!
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -15154 | 3 | -1
+23.9.2018 23:39[Trace]1  |  false  |  30   |   -153 | 3 | -4
+23.9.2018 23:39[Trace]2  |  true  |  31   |   29848 | 4 | -5
+23.9.2018 23:39[Trace]3  |  true  |  31   |   89848 | 2 | -3
+23.9.2018 23:39[Trace]4  |  true  |  31   |   14847 | -3 | 0
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -16156 | 3 | -1
+23.9.2018 23:39[Trace]1  |  false  |  30   |   -1156 | 3 | -4
+23.9.2018 23:39[Trace]2  |  true  |  32   |   28845 | 4 | -6
+23.9.2018 23:39[Trace]3  |  true  |  32   |   88844 | 2 | -4
+23.9.2018 23:39[Trace]4  |  true  |  32   |   13844 | -3 | 1
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -17160 | 3 | -1
+23.9.2018 23:39[Trace]1  |  false  |  30   |   -2160 | 3 | -4
+23.9.2018 23:39[Trace]2  |  true  |  33   |   27841 | 3 | -6
+23.9.2018 23:39[Trace]3  |  true  |  33   |   87840 | 2 | -3
+23.9.2018 23:39[Trace]4  |  true  |  33   |   12839 | -3 | 2
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -18163 | 3 | -1
+23.9.2018 23:39[Trace]1  |  false  |  30   |   -3163 | 3 | -4
+23.9.2018 23:39[Trace]2  |  true  |  34   |   26837 | 2 | -6
+23.9.2018 23:39[Trace]3  |  true  |  34   |   86837 | 2 | -2
+23.9.2018 23:39[Trace]4  |  true  |  34   |   11836 | -3 | 3
+23.9.2018 23:39[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:39[Trace]0  |  false  |  15   |   -19167 | 3 | -1
+23.9.2018 23:39[Trace]1  |  false  |  30   |   -4167 | 3 | -4
+23.9.2018 23:39[Trace]2  |  true  |  35   |   25834 | 2 | -7
+23.9.2018 23:39[Trace]3  |  true  |  35   |   85833 | 2 | -3
+23.9.2018 23:39[Trace]4  |  true  |  35   |   10833 | -3 | 2
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -20171 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -5171 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  36   |   24829 | 2 | -6
+23.9.2018 23:40[Trace]3  |  true  |  36   |   84829 | 2 | -4
+23.9.2018 23:40[Trace]4  |  true  |  36   |   9828 | -2 | 2
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -21176 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -6175 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  37   |   23825 | 2 | -5
+23.9.2018 23:40[Trace]3  |  true  |  37   |   83824 | 2 | -3
+23.9.2018 23:40[Trace]4  |  true  |  37   |   8823 | -1 | 2
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -22179 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -7179 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  38   |   22822 | 2 | -4
+23.9.2018 23:40[Trace]3  |  true  |  38   |   82822 | 2 | -4
+23.9.2018 23:40[Trace]4  |  true  |  38   |   7822 | -1 | 1
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -23182 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -8182 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  39   |   21819 | 2 | -3
+23.9.2018 23:40[Trace]3  |  true  |  39   |   81818 | 2 | -3
+23.9.2018 23:40[Trace]4  |  true  |  39   |   6818 | -1 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -24186 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -9186 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  40   |   20814 | 2 | -2
+23.9.2018 23:40[Trace]3  |  true  |  40   |   80814 | 1 | -3
+23.9.2018 23:40[Trace]4  |  true  |  40   |   5813 | 0 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -25190 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -10190 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  41   |   19810 | 3 | -2
+23.9.2018 23:40[Trace]3  |  true  |  41   |   79810 | 2 | -3
+23.9.2018 23:40[Trace]4  |  true  |  41   |   4809 | 0 | 1
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -26193 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -11193 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  42   |   18808 | 2 | -2
+23.9.2018 23:40[Trace]3  |  true  |  42   |   78807 | 3 | -3
+23.9.2018 23:40[Trace]4  |  true  |  42   |   3807 | -1 | 1
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -27199 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -12198 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  43   |   17803 | 2 | -3
+23.9.2018 23:40[Trace]3  |  true  |  43   |   77803 | 3 | -4
+23.9.2018 23:40[Trace]4  |  true  |  43   |   2803 | -2 | 1
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -28200 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -13200 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  44   |   16801 | 2 | -4
+23.9.2018 23:40[Trace]3  |  true  |  44   |   76800 | 3 | -5
+23.9.2018 23:40[Trace]4  |  true  |  44   |   1800 | -3 | 1
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -29205 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -14204 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  45   |   15796 | 2 | -3
+23.9.2018 23:40[Trace]3  |  true  |  45   |   75796 | 3 | -4
+23.9.2018 23:40[Trace]4  |  true  |  45   |   795 | -3 | 0
+23.9.2018 23:40[Warning]Death!
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -30208 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -15208 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  46   |   14792 | 2 | -2
+23.9.2018 23:40[Trace]3  |  true  |  46   |   74792 | 2 | -4
+23.9.2018 23:40[Trace]4  |  false  |  45   |   -209 | -2 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -31212 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -16212 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  47   |   13788 | 1 | -2
+23.9.2018 23:40[Trace]3  |  true  |  47   |   73788 | 3 | -4
+23.9.2018 23:40[Trace]4  |  false  |  45   |   -1213 | -2 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -32217 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -17227 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  48   |   12773 | 1 | -3
+23.9.2018 23:40[Trace]3  |  true  |  48   |   72773 | 3 | -3
+23.9.2018 23:40[Trace]4  |  false  |  45   |   -2228 | -2 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -33231 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -18231 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  49   |   11769 | 2 | -3
+23.9.2018 23:40[Trace]3  |  true  |  49   |   71769 | 3 | -4
+23.9.2018 23:40[Trace]4  |  false  |  45   |   -3232 | -2 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -34235 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -19235 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  50   |   10766 | 1 | -3
+23.9.2018 23:40[Trace]3  |  true  |  50   |   70765 | 3 | -5
+23.9.2018 23:40[Trace]4  |  false  |  45   |   -4235 | -2 | 0
+23.9.2018 23:40[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:40[Trace]0  |  false  |  15   |   -35238 | 3 | -1
+23.9.2018 23:40[Trace]1  |  false  |  30   |   -20238 | 3 | -4
+23.9.2018 23:40[Trace]2  |  true  |  51   |   9762 | 0 | -3
+23.9.2018 23:40[Trace]3  |  true  |  51   |   69762 | 3 | -4
+23.9.2018 23:40[Trace]4  |  false  |  45   |   -5239 | -2 | 0
+23.9.2018 23:44[Warning]Born!
+23.9.2018 23:44[Warning]Born!
+23.9.2018 23:44[Warning]Born!
+23.9.2018 23:44[Warning]Born!
+23.9.2018 23:44[Warning]Born!
+23.9.2018 23:44[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:44[Trace]0  |  true  |  1   |   14999 | 0 | 0
+23.9.2018 23:44[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:44[Trace]2  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:44[Trace]3  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:44[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:44[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:44[Trace]0  |  true  |  2   |   13996 | 0 | 0
+23.9.2018 23:44[Trace]1  |  true  |  2   |   28995 | 0 | 0
+23.9.2018 23:44[Trace]2  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:44[Trace]3  |  true  |  2   |   118995 | 0 | 0
+23.9.2018 23:44[Trace]4  |  true  |  2   |   43994 | 0 | 0
+23.9.2018 23:44[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:44[Trace]0  |  true  |  3   |   12989 | 1 | 0
+23.9.2018 23:44[Trace]1  |  true  |  3   |   27989 | 0 | -1
+23.9.2018 23:44[Trace]2  |  true  |  3   |   57989 | 1 | 0
+23.9.2018 23:44[Trace]3  |  true  |  3   |   117989 | 0 | 1
+23.9.2018 23:44[Trace]4  |  true  |  3   |   42988 | -1 | 0
+23.9.2018 23:44[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:44[Trace]0  |  true  |  4   |   11986 | 2 | 0
+23.9.2018 23:44[Trace]1  |  true  |  4   |   26974 | -1 | -1
+23.9.2018 23:44[Trace]2  |  true  |  4   |   56974 | 1 | -1
+23.9.2018 23:44[Trace]3  |  true  |  4   |   116974 | 0 | 0
+23.9.2018 23:44[Trace]4  |  true  |  4   |   41973 | -2 | 0
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:50[Trace]0  |  true  |  1   |   14999 | 0 | 0
+23.9.2018 23:50[Trace]1  |  true  |  1   |   30000 | 0 | 0
+23.9.2018 23:50[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:50[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:50[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Warning]Born!
+23.9.2018 23:50[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:50[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:50[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:50[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:50[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:50[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:51[Warning]Born!
+23.9.2018 23:51[Warning]Born!
+23.9.2018 23:51[Warning]Born!
+23.9.2018 23:51[Warning]Born!
+23.9.2018 23:51[Warning]Born!
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:51[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:51[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:51[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:51[Trace]4  |  true  |  1   |   44998 | 0 | 0
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  2   |   13996 | 0 | 0
+23.9.2018 23:51[Trace]1  |  true  |  2   |   28996 | 0 | 0
+23.9.2018 23:51[Trace]2  |  true  |  2   |   118996 | 0 | 0
+23.9.2018 23:51[Trace]3  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:51[Trace]4  |  true  |  2   |   43995 | 0 | 0
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  3   |   12990 | 0 | -1
+23.9.2018 23:51[Trace]1  |  true  |  3   |   27990 | -1 | 0
+23.9.2018 23:51[Trace]2  |  true  |  3   |   117989 | 1 | 0
+23.9.2018 23:51[Trace]3  |  true  |  3   |   57989 | 0 | -1
+23.9.2018 23:51[Trace]4  |  true  |  3   |   42988 | 0 | 1
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  4   |   11986 | 0 | 0
+23.9.2018 23:51[Trace]1  |  true  |  4   |   26986 | -1 | 1
+23.9.2018 23:51[Trace]2  |  true  |  4   |   116986 | 1 | 1
+23.9.2018 23:51[Trace]3  |  true  |  4   |   56985 | 0 | 0
+23.9.2018 23:51[Trace]4  |  true  |  4   |   41985 | 0 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  5   |   10982 | -1 | 0
+23.9.2018 23:51[Trace]1  |  true  |  5   |   25982 | -1 | 2
+23.9.2018 23:51[Trace]2  |  true  |  5   |   115982 | 1 | 2
+23.9.2018 23:51[Trace]3  |  true  |  5   |   55981 | 0 | -1
+23.9.2018 23:51[Trace]4  |  true  |  5   |   40980 | 1 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  6   |   9978 | -2 | 0
+23.9.2018 23:51[Trace]1  |  true  |  6   |   24978 | -2 | 2
+23.9.2018 23:51[Trace]2  |  true  |  6   |   114978 | 1 | 3
+23.9.2018 23:51[Trace]3  |  true  |  6   |   54977 | 1 | -1
+23.9.2018 23:51[Trace]4  |  true  |  6   |   39977 | 1 | 3
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  7   |   8974 | -2 | -1
+23.9.2018 23:51[Trace]1  |  true  |  7   |   23975 | -1 | 2
+23.9.2018 23:51[Trace]2  |  true  |  7   |   113975 | 1 | 4
+23.9.2018 23:51[Trace]3  |  true  |  7   |   53975 | 1 | 0
+23.9.2018 23:51[Trace]4  |  true  |  7   |   38975 | 1 | 4
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  8   |   7972 | -3 | -1
+23.9.2018 23:51[Trace]1  |  true  |  8   |   22972 | 0 | 2
+23.9.2018 23:51[Trace]2  |  true  |  8   |   112972 | 0 | 4
+23.9.2018 23:51[Trace]3  |  true  |  8   |   52971 | 1 | 1
+23.9.2018 23:51[Trace]4  |  true  |  8   |   37971 | 1 | 3
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  9   |   6969 | -2 | -1
+23.9.2018 23:51[Trace]1  |  true  |  9   |   21969 | 0 | 1
+23.9.2018 23:51[Trace]2  |  true  |  9   |   111967 | 0 | 3
+23.9.2018 23:51[Trace]3  |  true  |  9   |   51965 | 0 | 1
+23.9.2018 23:51[Trace]4  |  true  |  9   |   36962 | 1 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  10   |   5961 | -2 | 0
+23.9.2018 23:51[Trace]1  |  true  |  10   |   20962 | 0 | 0
+23.9.2018 23:51[Trace]2  |  true  |  10   |   110962 | 1 | 3
+23.9.2018 23:51[Trace]3  |  true  |  10   |   50962 | 1 | 1
+23.9.2018 23:51[Trace]4  |  true  |  10   |   35961 | 0 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  11   |   4960 | -1 | 0
+23.9.2018 23:51[Trace]1  |  true  |  11   |   19960 | 1 | 0
+23.9.2018 23:51[Trace]2  |  true  |  11   |   109959 | 2 | 3
+23.9.2018 23:51[Trace]3  |  true  |  11   |   49957 | 1 | 2
+23.9.2018 23:51[Trace]4  |  true  |  11   |   34957 | 1 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  12   |   3940 | 0 | 0
+23.9.2018 23:51[Trace]1  |  true  |  12   |   18941 | 0 | 0
+23.9.2018 23:51[Trace]2  |  true  |  12   |   108940 | 2 | 2
+23.9.2018 23:51[Trace]3  |  true  |  12   |   48939 | 2 | 2
+23.9.2018 23:51[Trace]4  |  true  |  12   |   33939 | 0 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  13   |   2935 | 0 | -1
+23.9.2018 23:51[Trace]1  |  true  |  13   |   17935 | 1 | 0
+23.9.2018 23:51[Trace]2  |  true  |  13   |   107935 | 2 | 1
+23.9.2018 23:51[Trace]3  |  true  |  13   |   47934 | 3 | 2
+23.9.2018 23:51[Trace]4  |  true  |  13   |   32934 | 0 | 1
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  14   |   1930 | 0 | 0
+23.9.2018 23:51[Trace]1  |  true  |  14   |   16930 | 2 | 0
+23.9.2018 23:51[Trace]2  |  true  |  14   |   106930 | 2 | 2
+23.9.2018 23:51[Trace]3  |  true  |  14   |   46929 | 3 | 3
+23.9.2018 23:51[Trace]4  |  true  |  14   |   31929 | 1 | 1
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  true  |  15   |   926 | 0 | 1
+23.9.2018 23:51[Trace]1  |  true  |  15   |   15926 | 1 | 0
+23.9.2018 23:51[Trace]2  |  true  |  15   |   105926 | 2 | 1
+23.9.2018 23:51[Trace]3  |  true  |  15   |   45925 | 3 | 4
+23.9.2018 23:51[Trace]4  |  true  |  15   |   30925 | 0 | 1
+23.9.2018 23:51[Warning]Death!
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  false  |  15   |   -77 | -1 | 1
+23.9.2018 23:51[Trace]1  |  true  |  16   |   14913 | 2 | 0
+23.9.2018 23:51[Trace]2  |  true  |  16   |   104913 | 3 | 1
+23.9.2018 23:51[Trace]3  |  true  |  16   |   44913 | 3 | 3
+23.9.2018 23:51[Trace]4  |  true  |  16   |   29913 | 0 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  false  |  15   |   -1088 | -1 | 1
+23.9.2018 23:51[Trace]1  |  true  |  17   |   13912 | 2 | 1
+23.9.2018 23:51[Trace]2  |  true  |  17   |   103912 | 3 | 0
+23.9.2018 23:51[Trace]3  |  true  |  17   |   43912 | 3 | 2
+23.9.2018 23:51[Trace]4  |  true  |  17   |   28912 | 1 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  false  |  15   |   -2090 | -1 | 1
+23.9.2018 23:51[Trace]1  |  true  |  18   |   12910 | 1 | 1
+23.9.2018 23:51[Trace]2  |  true  |  18   |   102910 | 3 | -1
+23.9.2018 23:51[Trace]3  |  true  |  18   |   42909 | 3 | 3
+23.9.2018 23:51[Trace]4  |  true  |  18   |   27908 | 2 | 2
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  false  |  15   |   -3094 | -1 | 1
+23.9.2018 23:51[Trace]1  |  true  |  19   |   11907 | 1 | 0
+23.9.2018 23:51[Trace]2  |  true  |  19   |   101907 | 4 | -1
+23.9.2018 23:51[Trace]3  |  true  |  19   |   41906 | 2 | 3
+23.9.2018 23:51[Trace]4  |  true  |  19   |   26906 | 2 | 1
+23.9.2018 23:51[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:51[Trace]0  |  false  |  15   |   -4096 | -1 | 1
+23.9.2018 23:51[Trace]1  |  true  |  20   |   10904 | 1 | -1
+23.9.2018 23:51[Trace]2  |  true  |  20   |   100904 | 4 | 0
+23.9.2018 23:51[Trace]3  |  true  |  20   |   40903 | 3 | 3
+23.9.2018 23:51[Trace]4  |  true  |  20   |   25902 | 2 | 0
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:55[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:55[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:55[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:55[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:55[Trace]4  |  true  |  1   |   45000 | 0 | 0
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Warning]Born!
+23.9.2018 23:55[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:55[Trace]0  |  true  |  1   |   14999 | 0 | 0
+23.9.2018 23:55[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:55[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:55[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:55[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:55[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:55[Trace]0  |  true  |  2   |   13995 | 0 | 0
+23.9.2018 23:55[Trace]1  |  true  |  2   |   28996 | 0 | 0
+23.9.2018 23:55[Trace]2  |  true  |  2   |   118995 | 0 | 0
+23.9.2018 23:55[Trace]3  |  true  |  2   |   58994 | 0 | 0
+23.9.2018 23:55[Trace]4  |  true  |  2   |   43994 | 0 | 0
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:56[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:56[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:56[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:56[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:56[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:56[Info][]
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Warning]Born!
+23.9.2018 23:56[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:56[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:56[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:56[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:56[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:56[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:56[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:56[Trace]0  |  true  |  2   |   13995 | 0 | 0
+23.9.2018 23:56[Trace]1  |  true  |  2   |   28996 | 0 | 0
+23.9.2018 23:56[Trace]2  |  true  |  2   |   118995 | 0 | 0
+23.9.2018 23:56[Trace]3  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:56[Trace]4  |  true  |  2   |   43994 | 0 | 0
+23.9.2018 23:57[Info][]
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  1   |   14999 | 0 | 0
+23.9.2018 23:57[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  1   |   120000 | 0 | 0
+23.9.2018 23:57[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:57[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  2   |   13995 | 0 | 0
+23.9.2018 23:57[Trace]1  |  true  |  2   |   28994 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  2   |   118994 | 0 | 0
+23.9.2018 23:57[Trace]3  |  true  |  2   |   58994 | 0 | 0
+23.9.2018 23:57[Trace]4  |  true  |  2   |   43993 | 0 | 0
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  3   |   12988 | 1 | 0
+23.9.2018 23:57[Trace]1  |  true  |  3   |   27988 | 0 | -1
+23.9.2018 23:57[Trace]2  |  true  |  3   |   117989 | 0 | 1
+23.9.2018 23:57[Trace]3  |  true  |  3   |   57988 | 0 | -1
+23.9.2018 23:57[Trace]4  |  true  |  3   |   42988 | 0 | 1
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  1   |   14999 | 0 | 0
+23.9.2018 23:57[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:57[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:57[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  2   |   13994 | 0 | 0
+23.9.2018 23:57[Trace]1  |  true  |  2   |   28995 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  2   |   118994 | 0 | 0
+23.9.2018 23:57[Trace]3  |  true  |  2   |   58993 | 0 | 0
+23.9.2018 23:57[Trace]4  |  true  |  2   |   43993 | 0 | 0
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  3   |   12988 | -1 | 0
+23.9.2018 23:57[Trace]1  |  true  |  3   |   27988 | 0 | 1
+23.9.2018 23:57[Trace]2  |  true  |  3   |   117988 | 0 | -1
+23.9.2018 23:57[Trace]3  |  true  |  3   |   57987 | 0 | -1
+23.9.2018 23:57[Trace]4  |  true  |  3   |   42987 | -1 | 0
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  4   |   11983 | -2 | 0
+23.9.2018 23:57[Trace]1  |  true  |  4   |   26983 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  4   |   116983 | 0 | -2
+23.9.2018 23:57[Trace]3  |  true  |  4   |   56982 | 1 | -1
+23.9.2018 23:57[Trace]4  |  true  |  4   |   41982 | -2 | 0
+23.9.2018 23:57[Info][]
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Warning]Born!
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  1   |   14997 | 0 | 0
+23.9.2018 23:57[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:57[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:57[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:57[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:57[Trace]0  |  true  |  2   |   13994 | 0 | 0
+23.9.2018 23:57[Trace]1  |  true  |  2   |   28996 | 0 | 0
+23.9.2018 23:57[Trace]2  |  true  |  2   |   118995 | 0 | 0
+23.9.2018 23:57[Trace]3  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:57[Trace]4  |  true  |  2   |   43994 | 0 | 0
+23.9.2018 23:58[Info][]
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:58[Trace]0  |  true  |  1   |   14999 | 0 | 0
+23.9.2018 23:58[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:58[Trace]2  |  true  |  1   |   120000 | 0 | 0
+23.9.2018 23:58[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:58[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:58[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:58[Trace]0  |  true  |  2   |   13994 | 0 | 0
+23.9.2018 23:58[Trace]1  |  true  |  2   |   28994 | 0 | 0
+23.9.2018 23:58[Trace]2  |  true  |  2   |   118994 | 0 | 0
+23.9.2018 23:58[Trace]3  |  true  |  2   |   58994 | 0 | 0
+23.9.2018 23:58[Trace]4  |  true  |  2   |   43993 | 0 | 0
+23.9.2018 23:58[Info][]
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:58[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:58[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:58[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:58[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:58[Trace]4  |  true  |  1   |   44998 | 0 | 0
+23.9.2018 23:58[Info]["Test","Test","Test","Test","Test","Test","Test","Test","Test","Test","Test"]
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:58[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:58[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:58[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:58[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:58[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:58[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:58[Trace]0  |  true  |  2   |   13996 | 0 | 0
+23.9.2018 23:58[Trace]1  |  true  |  2   |   28997 | 0 | 0
+23.9.2018 23:58[Trace]2  |  true  |  2   |   118996 | 0 | 0
+23.9.2018 23:58[Trace]3  |  true  |  2   |   58996 | 0 | 0
+23.9.2018 23:58[Trace]4  |  true  |  2   |   43995 | 0 | 0
+23.9.2018 23:58[Info][0,1,2,3,4,5,6,7,8,9,10]
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Warning]Born!
+23.9.2018 23:58[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:58[Trace]0  |  true  |  1   |   14997 | 0 | 0
+23.9.2018 23:58[Trace]1  |  true  |  1   |   29997 | 0 | 0
+23.9.2018 23:58[Trace]2  |  true  |  1   |   119998 | 0 | 0
+23.9.2018 23:58[Trace]3  |  true  |  1   |   59998 | 0 | 0
+23.9.2018 23:58[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:59[Info][["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""],["","","","","","","","","",""]]
+23.9.2018 23:59[Warning]Born!
+23.9.2018 23:59[Warning]Born!
+23.9.2018 23:59[Warning]Born!
+23.9.2018 23:59[Warning]Born!
+23.9.2018 23:59[Warning]Born!
+23.9.2018 23:59[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:59[Trace]0  |  true  |  1   |   14998 | 0 | 0
+23.9.2018 23:59[Trace]1  |  true  |  1   |   29999 | 0 | 0
+23.9.2018 23:59[Trace]2  |  true  |  1   |   119999 | 0 | 0
+23.9.2018 23:59[Trace]3  |  true  |  1   |   59999 | 0 | 0
+23.9.2018 23:59[Trace]4  |  true  |  1   |   44999 | 0 | 0
+23.9.2018 23:59[Trace]Creature ID | Alive | Age | LT Left | X | Y
+23.9.2018 23:59[Trace]0  |  true  |  2   |   13996 | 0 | 0
+23.9.2018 23:59[Trace]1  |  true  |  2   |   28996 | 0 | 0
+23.9.2018 23:59[Trace]2  |  true  |  2   |   118996 | 0 | 0
+23.9.2018 23:59[Trace]3  |  true  |  2   |   58995 | 0 | 0
+23.9.2018 23:59[Trace]4  |  true  |  2   |   43995 | 0 | 0
+24.9.2018 0:2[Warning]Born!
+24.9.2018 0:2[Warning]Born!
+24.9.2018 0:2[Warning]Born!
+24.9.2018 0:2[Warning]Born!
+24.9.2018 0:2[Warning]Born!
+24.9.2018 0:2[Trace]Creature ID | Alive | Age | LT Left | X | Y
+24.9.2018 0:2[Trace]0  |  true  |  1   |   14988 | 0 | 0
+24.9.2018 0:2[Trace]1  |  true  |  1   |   29999 | 0 | 0
+24.9.2018 0:2[Trace]2  |  true  |  1   |   119999 | 0 | 0
+24.9.2018 0:2[Trace]3  |  true  |  1   |   59999 | 0 | 0
+24.9.2018 0:2[Trace]4  |  true  |  1   |   44999 | 0 | 0
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:2[Trace]Creature ID | Alive | Age | LT Left | X | Y
+24.9.2018 0:2[Trace]0  |  true  |  2   |   13985 | 0 | 0
+24.9.2018 0:2[Trace]1  |  true  |  2   |   28996 | 0 | 0
+24.9.2018 0:2[Trace]2  |  true  |  2   |   118996 | 0 | 0
+24.9.2018 0:2[Trace]3  |  true  |  2   |   58996 | 0 | 0
+24.9.2018 0:2[Trace]4  |  true  |  2   |   43995 | 0 | 0
+24.9.2018 0:6[Warning]Born!
+24.9.2018 0:6[Warning]Born!
+24.9.2018 0:6[Warning]Born!
+24.9.2018 0:6[Warning]Born!
+24.9.2018 0:6[Warning]Born!
+24.9.2018 0:6[Trace]Creature ID | Alive | Age | LT Left | X | Y
+24.9.2018 0:6[Trace]0  |  true  |  1   |   14994 | 0 | 0
+24.9.2018 0:6[Trace]1  |  true  |  1   |   29995 | 0 | 0
+24.9.2018 0:6[Trace]2  |  true  |  1   |   119996 | 0 | 0
+24.9.2018 0:6[Trace]3  |  true  |  1   |   59997 | 0 | 0
+24.9.2018 0:6[Trace]4  |  true  |  1   |   44997 | 0 | 0
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:6[Trace]Creature ID | Alive | Age | LT Left | X | Y
+24.9.2018 0:6[Trace]0  |  true  |  2   |   13991 | 0 | 0
+24.9.2018 0:6[Trace]1  |  true  |  2   |   28992 | 0 | 0
+24.9.2018 0:6[Trace]2  |  true  |  2   |   118992 | 0 | 0
+24.9.2018 0:6[Trace]3  |  true  |  2   |   58993 | 0 | 0
+24.9.2018 0:6[Trace]4  |  true  |  2   |   43992 | 0 | 0
+24.9.2018 0:8[Warning]Born!
+24.9.2018 0:8[Warning]Born!
+24.9.2018 0:8[Warning]Born!
+24.9.2018 0:8[Warning]Born!
+24.9.2018 0:8[Warning]Born!
+24.9.2018 0:8[Trace]Creature ID | Alive | Age | LT Left | X | Y
+24.9.2018 0:8[Trace]0  |  true  |  1   |   14998 | 0 | 0
+24.9.2018 0:8[Trace]1  |  true  |  1   |   29999 | 0 | 0
+24.9.2018 0:8[Trace]2  |  true  |  1   |   119999 | 0 | 0
+24.9.2018 0:8[Trace]3  |  true  |  1   |   59999 | 0 | 0
+24.9.2018 0:8[Trace]4  |  true  |  1   |   44999 | 0 | 0
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
+24.9.2018 0:8[Trace]Creature ID | Alive | Age | LT Left | X | Y
+24.9.2018 0:8[Trace]0  |  true  |  2   |   13997 | 0 | 0
+24.9.2018 0:8[Trace]1  |  true  |  2   |   28998 | 0 | 0
+24.9.2018 0:8[Trace]2  |  true  |  2   |   118998 | 0 | 0
+24.9.2018 0:8[Trace]3  |  true  |  2   |   58998 | 0 | 0
+24.9.2018 0:8[Trace]4  |  true  |  2   |   43998 | 0 | 0
+24.9.2018 0:8[Error]mapController : creatureController reference needed!

@@ -1,10 +1,14 @@
-import * as creatureController from "./src/creatureController";
+import { creatureController } from "./src/creatureController";
+import { mapController } from "./src/mapController";
 
-creatureController.createNewCreature(15);
-creatureController.createNewCreature(30);
-creatureController.createNewCreature(60);
-creatureController.createNewCreature(120);
-creatureController.createNewCreature(45);
+const creatureMonitor = new creatureController();
+const map = new mapController(creatureMonitor);
 
+creatureMonitor.createNewCreature(15);
+creatureMonitor.createNewCreature(30);
+creatureMonitor.createNewCreature(120);
+creatureMonitor.createNewCreature(60);
+creatureMonitor.createNewCreature(45);
 
-creatureController.startMonitoring();
+creatureMonitor.startMonitoring();
+map.drawMap(creatureMonitor.creatureList);
