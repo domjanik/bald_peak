@@ -3,15 +3,9 @@ import * as logger from "@larsire/common-logger";
 import { creatureController } from './creatureController';
 
 export class mapController {
-    constructor(creatureMonitor: creatureController) {
-        if (!creatureMonitor) {
-            logger.error("mapController : creatureController reference needed!")
-            throw Error("mapController : creatureController reference needed!");
-        }
-        this.creatureMonitor = creatureMonitor;
+    constructor() {
         this.generateMap();
     }
-    private creatureMonitor: creatureController;
     public width: number = 10;
     public height: number = 10;
     public map: Array<any>;
@@ -28,7 +22,7 @@ export class mapController {
     }
 
     public drawMap(creatureList) {
-        console.log(this.creatureMonitor.creatureList);
+        console.log(creatureList);
         this.map.forEach((row) => {
             logger.info(row);
         })
