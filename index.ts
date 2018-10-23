@@ -2,7 +2,7 @@ import { creatureController } from "./src/creatureController";
 import { mapController } from "./src/mapController";
 
 const creatureMonitor = new creatureController();
-const map = new mapController(creatureMonitor);
+const map = new mapController();
 
 creatureMonitor.createNewCreature(15);
 creatureMonitor.createNewCreature(30);

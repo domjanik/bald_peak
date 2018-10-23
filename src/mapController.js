@@ -2,14 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const logger = require("@larsire/common-logger");
 class mapController {
-    constructor(creatureMonitor) {
+    constructor() {
         this.width = 10;
         this.height = 10;
-        if (!creatureMonitor) {
-            logger.error("mapController : creatureController reference needed!");
-            throw Error("mapController : creatureController reference needed!");
-        }
-        this.creatureMonitor = creatureMonitor;
         this.generateMap();
     }
     generateMap() {
@@ -22,8 +17,8 @@ class mapController {
             this.map.push(row);
         }
     }
-    showMap() {
-        console.log(this.creatureMonitor.creatureList);
+    drawMap(creatureList) {
+        console.log(creatureList);
         this.map.forEach((row) => {
             logger.info(row);
         });
