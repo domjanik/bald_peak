@@ -22,10 +22,20 @@ export class mapController {
         }
     }
 
-    public drawMap(creatureList:Array<creatureModel>) {
+    private getObjectById(objectId) {
+    }
+
+    public async moveObject(objectId, direction, distance) {
+        let movedObject = this.getObjectById(objectId);
+        for (let i = 0; i < distance; distance++) {
+
+        }
+    }
+
+    public drawMap(creatureList: Array<creatureModel>) {
         var mapToDraw = _.cloneDeep(this.map);
         logger.info("\n\n");
-        creatureList.forEach((creature)=>{
+        creatureList.forEach((creature) => {
             mapToDraw[creature.position.axisY][creature.position.axisX] = (creature.alive ? " O " : " X ")
         })
         mapToDraw.forEach((row) => {
