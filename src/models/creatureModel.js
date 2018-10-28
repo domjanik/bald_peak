@@ -1,10 +1,13 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const logger = require("@larsire/common-logger");
-const contants_1 = require("../utils/contants");
 const creaturePosition_1 = require("./creatureParameters/creaturePosition");
+const eventQuery_1 = require("../eventQuery/eventQuery");
+const event_1 = require("../eventQuery/event");
+const constants_1 = require("../eventQuery/constants");
 class creatureModel {
     constructor(maximumLifetime) {
+        this.objectId = "";
         this.movementSpeed = 1;
         this.alive = false;
         this.age = 0;
@@ -34,20 +37,22 @@ class creatureModel {
         }
     }
     move(direction, speedModifier = 1) {
-        if (direction === contants_1.movementDirection.down) {
-            if (this.position.axisY > 0)
-                this.position.axisY -= this.movementSpeed * speedModifier;
-        }
-        else if (direction === contants_1.movementDirection.up) {
-            this.position.axisY += this.movementSpeed * speedModifier;
-        }
-        else if (direction === contants_1.movementDirection.left) {
-            if (this.position.axisX > 0)
-                this.position.axisX -= this.movementSpeed * speedModifier;
-        }
-        else if (direction === contants_1.movementDirection.right) {
-            this.position.axisX += this.movementSpeed * speedModifier;
-        }
+        let moveEvent = new event_1.Event(this.objectId, constants_1.eventTypes.move, { direction: direction, distance: (1 * speedModifier) });
+        eventQuery_1.addEvent(moveEvent);
+        // if (direction === movementDirection.down) {
+        //     if (this.position.axisY > 0)
+        //         this.position.axisY -= this.movementSpeed * speedModifier;
+        // }
+        // else if (direction === movementDirection.up) {
+        //     this.position.axisY += this.movementSpeed * speedModifier;
+        // }
+        // else if (direction === movementDirection.left) {
+        //     if (this.position.axisX > 0)
+        //         this.position.axisX -= this.movementSpeed * speedModifier;
+        // }
+        // else if (direction === movementDirection.right) {
+        //     this.position.axisX += this.movementSpeed * speedModifier;
+        // }
     }
 }
 exports.creatureModel = creatureModel;

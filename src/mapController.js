@@ -18,6 +18,13 @@ class mapController {
             this.map.push(row);
         }
     }
+    getObjectById(objectId) {
+    }
+    async moveObject(objectId, direction, distance) {
+        let movedObject = this.getObjectById(objectId);
+        for (let i = 0; i < distance; distance++) {
+        }
+    }
     drawMap(creatureList) {
         var mapToDraw = _.cloneDeep(this.map);
         logger.info("\n\n");

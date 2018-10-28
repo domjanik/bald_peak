@@ -1,7 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const creatureMonitor = require("./src/creatureController");
+const creatureController_1 = require("./src/creatureController");
 const mapController_1 = require("./src/mapController");
+const creatureMonitor = new creatureController_1.creatureController();
 const map = new mapController_1.mapController();
 creatureMonitor.createNewCreature(15);
 creatureMonitor.createNewCreature(30);

@@ -1,13 +1,16 @@
 import * as logger from "@larsire/common-logger";
 import { movementDirection } from "../utils/contants";
 import { creaturePosition } from "./creatureParameters/creaturePosition";
+import { addEvent } from "../eventQuery/eventQuery";
+import { Event } from "../eventQuery/event";
+import { eventTypes } from "../eventQuery/constants";
 
 export class creatureModel {
     constructor(maximumLifetime?: number) {
         this.maximumLifetime = maximumLifetime || 8;
         this.startLife();
     }
-
+    public objectId: string = "";
     private movementSpeed = 1;
     private birthDay: Date;
     public deathDate: Date;
@@ -43,19 +46,21 @@ export class creatureModel {
     }
 
     public move(direction: movementDirection, speedModifier: number = 1) {
-        if (direction === movementDirection.down) {
-            if (this.position.axisY > 0)
-                this.position.axisY -= this.movementSpeed * speedModifier;
-        }
-        else if (direction === movementDirection.up) {
-            this.position.axisY += this.movementSpeed * speedModifier;
-        }
-        else if (direction === movementDirection.left) {
-            if (this.position.axisX > 0)
-                this.position.axisX -= this.movementSpeed * speedModifier;
-        }
-        else if (direction === movementDirection.right) {
-            this.position.axisX += this.movementSpeed * speedModifier;
-        }
+        let moveEvent = new Event(this.objectId, eventTypes.move, {direction: direction, distance : (1 * speedModifier)});
+        addEvent(moveEvent);
+        // if (direction === movementDirection.down) {
+        //     if (this.position.axisY > 0)
+        //         this.position.axisY -= this.movementSpeed * speedModifier;
+        // }
+        // else if (direction === movementDirection.up) {
+        //     this.position.axisY += this.movementSpeed * speedModifier;
+        // }
+        // else if (direction === movementDirection.left) {
+        //     if (this.position.axisX > 0)
+        //         this.position.axisX -= this.movementSpeed * speedModifier;
+        // }
+        // else if (direction === movementDirection.right) {
+        //     this.position.axisX += this.movementSpeed * speedModifier;
+        // }
     }
 }
