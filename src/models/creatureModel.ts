@@ -6,8 +6,9 @@ import { Event } from "../eventQuery/event";
 import { eventTypes } from "../eventQuery/constants";
 
 export class creatureModel {
-    constructor(maximumLifetime?: number) {
+    constructor(objectId:string, maximumLifetime?: number) {
         this.maximumLifetime = maximumLifetime || 8;
+        this.objectId = objectId;
         this.startLife();
     }
     public objectId: string = "";
@@ -21,9 +22,7 @@ export class creatureModel {
 
     private startLife() {
         logger.warn("Born!");
-
         this.position = new creaturePosition(0, 0);
-
         this.birthDay = new Date();
         this.deathDate = this.birthDay;
         this.deathDate.setSeconds(this.deathDate.getSeconds() + this.maximumLifetime);
@@ -46,21 +45,9 @@ export class creatureModel {
     }
 
     public move(direction: movementDirection, speedModifier: number = 1) {
-        let moveEvent = new Event(this.objectId, eventTypes.move, {direction: direction, distance : (1 * speedModifier)});
-        addEvent(moveEvent);
-        // if (direction === movementDirection.down) {
-        //     if (this.position.axisY > 0)
-        //         this.position.axisY -= this.movementSpeed * speedModifier;
-        // }
-        // else if (direction === movementDirection.up) {
-        //     this.position.axisY += this.movementSpeed * speedModifier;
-        // }
-        // else if (direction === movementDirection.left) {
-        //     if (this.position.axisX > 0)
-        //         this.position.axisX -= this.movementSpeed * speedModifier;
-        // }
-        // else if (direction === movementDirection.right) {
-        //     this.position.axisX += this.movementSpeed * speedModifier;
-        // }
+        if(this.alive){
+            let moveEvent = new Event(this.objectId, eventTypes.move, {direction: direction, distance : (1 * speedModifier)});
+            addEvent(moveEvent);
+        }
     }
 }

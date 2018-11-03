@@ -1,14 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const creatureController_1 = require("./src/creatureController");
-const mapController_1 = require("./src/mapController");
-const creatureMonitor = new creatureController_1.creatureController();
-const map = new mapController_1.mapController();
-creatureMonitor.createNewCreature(15);
-creatureMonitor.createNewCreature(30);
-creatureMonitor.createNewCreature(120);
-creatureMonitor.createNewCreature(60);
-creatureMonitor.createNewCreature(45);
+const creatureMonitor = require("./src/creatureController");
+const map = require("./src/mapController");
+creatureMonitor.createNewCreature("creat1", 15);
+creatureMonitor.createNewCreature("creat2", 30);
+creatureMonitor.createNewCreature("creat3", 120);
+creatureMonitor.createNewCreature("creat4", 60);
+creatureMonitor.createNewCreature("creat5", 45);
 creatureMonitor.startMonitoring();
 let intr = setInterval(function () {
     map.drawMap(creatureMonitor.creatureList);

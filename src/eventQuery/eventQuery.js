@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const logger = require("@larsire/common-logger");
+const mapController = require("../mapController");
 const constants_1 = require("./constants");
 let eventQuery = [];
 let loopWorking = false;
@@ -11,8 +12,7 @@ function executeEvent() {
     var event = eventQuery[0];
     switch (event.eventType) {
         case constants_1.eventTypes.move:
-            //mapController.moveObject(event.callerId, event.args.direction, event.args.distance);
-            logger.trace("moving : " + JSON.stringify(event));
+            mapController.moveObject(event.callerId, event.args.direction, event.args.distance);
             break;
         default:
             logger.error("Invalid event : " + JSON.stringify(event));
@@ -28,7 +28,6 @@ function startEventLoop() {
     loopWorking = false;
 }
 function addEvent(event) {
-    logger.trace(event);
     eventQuery.push(event);
     if (!loopWorking)
         startEventLoop();
