@@ -2,9 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const logger = require("@larsire/common-logger");
 const creaturePosition_1 = require("./creatureParameters/creaturePosition");
-const eventQuery_1 = require("../eventQuery/eventQuery");
-const event_1 = require("../eventQuery/event");
-const constants_1 = require("../eventQuery/constants");
 class creatureModel {
     constructor(objectId, maximumLifetime) {
         this.objectId = "";
@@ -35,12 +32,6 @@ class creatureModel {
         else {
             this.alive = false;
             logger.warn("Death!");
-        }
-    }
-    move(direction, speedModifier = 1) {
-        if (this.alive) {
-            let moveEvent = new event_1.Event(this.objectId, constants_1.eventTypes.move, { direction: direction, distance: (1 * speedModifier) });
-            eventQuery_1.addEvent(moveEvent);
         }
     }
 }

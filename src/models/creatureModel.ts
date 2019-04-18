@@ -1,9 +1,6 @@
 import * as logger from "@larsire/common-logger";
-import { movementDirection } from "../utils/contants";
 import { creaturePosition } from "./creatureParameters/creaturePosition";
-import { addEvent } from "../eventQuery/eventQuery";
-import { Event } from "../eventQuery/event";
-import { eventTypes } from "../eventQuery/constants";
+import Event from "../eventQuery/events/eventInterface";
 
 export class creatureModel {
     constructor(objectId:string, maximumLifetime?: number) {
@@ -41,13 +38,6 @@ export class creatureModel {
         } else {
             this.alive = false;
             logger.warn("Death!");
-        }
-    }
-
-    public move(direction: movementDirection, speedModifier: number = 1) {
-        if(this.alive){
-            let moveEvent = new Event(this.objectId, eventTypes.move, {direction: direction, distance : (1 * speedModifier)});
-            addEvent(moveEvent);
         }
     }
 }
