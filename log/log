@@ -55602,3 +55602,27 @@
 18.3.2019 23:5[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
 18.3.2019 23:5[Info]["   ","   ","   ","   ","   ","   ","   ","   ","   ","   "]
 18.3.2019 23:5[Info]working!
+19.3.2019 18:49[Error]Invalid object to move !
+19.3.2019 18:54[Error]Invalid object to move !
+19.3.2019 18:55[Error]Invalid direction : class directions {
+} !
+19.3.2019 18:55[Error]Invalid direction : class directions {
+} !
+19.3.2019 18:55[Error]Invalid direction : class directions {
+} !
+19.3.2019 18:55[Info]Moved undefined to 4,3 !
+19.3.2019 18:56[Info]Moved undefined to 5,3 !
+19.3.2019 18:56[Info]Moved undefined to 6,3 !
+19.3.2019 18:56[Info]Moved undefined to 7,3 !
+19.3.2019 18:58[Info]Moved AAA to 4,3 !
+19.3.2019 18:58[Info]Moved AAA to 5,3 !
+19.3.2019 18:58[Info]Moved AAA to 6,3 !
+19.3.2019 18:58[Info]Moved AAA to 7,3 !
+19.3.2019 18:58[Info]Moved AAA to 8,3 !
+19.3.2019 18:58[Info]Moved AAA to 4,3 !
+19.3.2019 18:59[Info]Moved QGckh to 6,3 !
+19.3.2019 19:0[Error]Can't move yYup0 to 5,3 !
+19.3.2019 19:5[Error]Can't move 7VJKL to -1,1 !
+19.3.2019 19:5[Info]Moved 7VJKL to 0,2 !
+19.3.2019 19:6[Error]Can't move 4P9De to -1,1 !
+19.3.2019 19:6[Error]Can't move 4P9De to 0,0 !
