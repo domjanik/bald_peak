@@ -14,8 +14,11 @@ class creature {
             this.position.axisX = options.position.axisX;
             this.position.axisY = options.position.axisY;
         }
+        this.speed = options.speed || 1;
         this.id = creatureController_1.default.getNewId();
         this.startLiving();
+    }
+    move(direction) {
     }
     increaseAge() {
         console.log("%s : %d / %d", this.id, this.age, this.lifeTime);

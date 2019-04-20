@@ -1,15 +1,11 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 class eventQuery {
-    constructor() {
-        this.events = new Array();
-        this.startQuery();
-    }
-    async executeEvent(ev) {
+    static async executeEvent(ev) {
         await ev.action();
         console.log("moved");
     }
-    async startQuery() {
+    static async startQuery() {
         if (this.events.length > 0) {
             await this.executeEvent(this.events[0]);
             console.log("this.startQuery");
@@ -20,9 +16,10 @@ class eventQuery {
             setTimeout(() => { this.startQuery(); }, 1000);
         }
     }
-    addEvent(ev) {
+    static addEvent(ev) {
         this.events.push(ev);
     }
 }
-exports.eventQuery = eventQuery;
+eventQuery.events = new Array();
+exports.default = eventQuery;
 //# sourceMappingURL=eventQuery.js.map
