@@ -18,9 +18,11 @@
   "homepage": "https://github.com/larsire/bald_peak#readme",
   "dependencies": {
     "@larsire/common-logger": "0.0.21",
+    "@types/body-parser": "^1.17.0",
     "@types/cors": "^2.8.4",
     "@types/express": "^4.16.1",
     "@types/node": "^10.3.2",
+    "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "eslint": "^5.7.0",
     "express": "^4.16.4",
