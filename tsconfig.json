@@ -3,7 +3,8 @@
     "target": "ESNext",                 
     "module": "commonjs",               
     "sourceMap": true,
-    "types":["node"]
+    "types":["node"],
+    "allowSyntheticDefaultImports": true
   },
   "include": [
     "*.ts",
