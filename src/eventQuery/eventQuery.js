@@ -6,9 +6,9 @@ class eventQuery {
         console.log("moved");
     }
     static async startQuery() {
+        console.log("this.startQuery");
         if (this.events.length > 0) {
             await this.executeEvent(this.events[0]);
-            console.log("this.startQuery");
             this.events.splice(0, 1);
             this.startQuery();
         }

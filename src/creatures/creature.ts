@@ -3,6 +3,10 @@ import mapObject from "../objects/mapObject";
 import creatureController from "../controllers/creatureController";
 import objectTypes from "../objects/objectTypes";
 import eventQuery from "../eventQuery/eventQuery";
+import baseStats from './baseStats';
+import MoveEvent from '../eventQuery/events/move';
+
+let hungerLimit = 100;
 
 export default class creature implements mapObject{
     constructor(options) {
@@ -14,8 +18,10 @@ export default class creature implements mapObject{
         }
         this.speed = options.speed || 1;
         this.id = creatureController.getNewId();
+        this.hunger = 0;
+        this.baseStats = new baseStats();
+        
         this.startLiving();
-
     }
     age = 0;
     isAlive = true; 
@@ -24,17 +30,21 @@ export default class creature implements mapObject{
     position: objectPosition;
     lifeTime: number;
     speed: number;
+    hunger: number;
+    baseStats: baseStats;
 
-    move(direction){
-
+    move(direction) {
+        eventQuery.addEvent(new MoveEvent(this.id, direction, this.speed))
     }
 
     increaseAge() {
-        console.log("%s : %d / %d", this.id, this.age, this.lifeTime);
+        console.log("%s : %d / %d, H : %d", this.id, this.age, this.lifeTime, this.hunger);
         console.log("Position : (%d, %d)", this.position.axisX, this.position.axisY);
         this.age++;
-        if(this.age >= this.lifeTime) {
+        this.hunger++
+        if(this.age >= this.lifeTime || this.hunger === hungerLimit) {
             this.isAlive = false;
+            console.log("Creature %s has died.", this.id);
         } else {
             setTimeout(() => {
                 this.increaseAge();
