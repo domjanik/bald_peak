@@ -2,6 +2,7 @@ import * as express from "express";
 import * as cors from "cors";
 import * as bodyParser from "body-parser";
 
+import obstacleController from "../controllers/obstacleController"
 import creatureController from "../controllers/creatureController";
 import human from "../creatures/human";
 import objectController from "../controllers/objectController";
@@ -9,6 +10,7 @@ import eventQuery from "../eventQuery/eventQuery";
 import MoveEvent from '../eventQuery/events/move';
 import creature from "../creatures/creature";
 import directions from '../constants/directions';
+import obstacle from "../objects/obstacle";
 
 const app = express();
 const port = 3000;
@@ -40,7 +42,11 @@ export default function runApi() {
       eventQuery.addEvent(new MoveEvent(creature.id, params.direction, creature.speed));
       res.status(200).send(req.body);
     });
-
+    app.post("/obstacle/add", (req, res) => {
+        let params = req.body;
+        obstacleController.addObstacle(new obstacle(0,3));
+        res.status(200).send(req.body);
+    });
    http.listen(port, () => console.log(`Example app listening on port ${port}!`));
    return http;    
 }

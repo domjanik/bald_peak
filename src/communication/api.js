@@ -3,11 +3,13 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express = require("express");
 const cors = require("cors");
 const bodyParser = require("body-parser");
+const obstacleController_1 = require("../controllers/obstacleController");
 const creatureController_1 = require("../controllers/creatureController");
 const human_1 = require("../creatures/human");
 const objectController_1 = require("../controllers/objectController");
 const eventQuery_1 = require("../eventQuery/eventQuery");
 const move_1 = require("../eventQuery/events/move");
+const obstacle_1 = require("../objects/obstacle");
 const app = express();
 const port = 3000;
 var originsWhitelist = [
@@ -35,6 +37,11 @@ function runApi() {
         let params = req.body;
         let creature = objectController_1.default.getObjectById(params.id);
         eventQuery_1.default.addEvent(new move_1.default(creature.id, params.direction, creature.speed));
+        res.status(200).send(req.body);
+    });
+    app.post("/obstacle/add", (req, res) => {
+        let params = req.body;
+        obstacleController_1.default.addObstacle(new obstacle_1.default(0, 3));
         res.status(200).send(req.body);
     });
     http.listen(port, () => console.log(`Example app listening on port ${port}!`));
