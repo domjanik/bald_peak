@@ -22,7 +22,7 @@ export default class MoveEvent implements Event {
 
     async moveObject() {
         return new Promise((resolve) => {
-            let eventTargetId = this.targetId || this.callerId
+            let eventTargetId = this.targetId || this.callerId;
             let movedObject = objectController.getObjectById(eventTargetId);
             if (movedObject) {
                 switch (this.direction) {

@@ -12,7 +12,7 @@ class creature {
         this.age = 0;
         this.isAlive = true;
         this.type = objectTypes_1.default.creature;
-        this.lifeTime = options.lifetime || 10;
+        this.lifeTime = options.lifetime || 100;
         this.position = new objectPosition_1.default();
         if (options.position) {
             this.position.axisX = options.position.axisX;
@@ -25,7 +25,9 @@ class creature {
         this.startLiving();
     }
     move(direction) {
-        eventQuery_1.default.addEvent(new move_1.default(this.id, direction, this.speed));
+        if (this.isAlive) {
+            eventQuery_1.default.addEvent(new move_1.default(this.id, direction, this.speed));
+        }
     }
     increaseAge() {
         console.log("%s : %d / %d, H : %d", this.id, this.age, this.lifeTime, this.hunger);
