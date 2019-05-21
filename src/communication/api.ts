@@ -44,7 +44,7 @@ export default function runApi() {
     });
     app.post("/obstacle/add", (req, res) => {
         let params = req.body;
-        obstacleController.addObstacle(new obstacle(0,3));
+        obstacleController.addObstacle(new obstacle(params.axisX,params.axisY));
         res.status(200).send(req.body);
     });
    http.listen(port, () => console.log(`Example app listening on port ${port}!`));

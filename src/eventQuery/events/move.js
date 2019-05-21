@@ -14,11 +14,20 @@ class MoveEvent {
         let fieldIsEmpty = !objectController_1.default.getObjectByPosition(axisX, axisY);
         return axisX >= 0 && axisY >= 0 && fieldIsEmpty;
     }
+    checkIfCanMove(movedObject, eventTargetId) {
+        if (!movedObject) {
+            return false;
+        }
+        if (movedObject.id === eventTargetId && !movedObject.alive) {
+            return false;
+        }
+        return true;
+    }
     async moveObject() {
         return new Promise((resolve) => {
             let eventTargetId = this.targetId || this.callerId;
             let movedObject = objectController_1.default.getObjectById(eventTargetId);
-            if (movedObject) {
+            if (this.checkIfCanMove(movedObject, eventTargetId)) {
                 switch (this.direction) {
                     case directions_1.default.up:
                         if (this.checkIfFieldIsAvailable(movedObject.position.axisX, movedObject.position.axisY - 1)) {
