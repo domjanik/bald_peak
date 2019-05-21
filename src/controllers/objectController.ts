@@ -14,7 +14,7 @@ export default class objectController {
       
         for (var i = 0; i < defaultIdLenght; i++)
           newId += possibleCharacters.charAt(Math.floor(Math.random() * possibleCharacters.length));
-      
+        
         return newId;
     }
 
