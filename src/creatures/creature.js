@@ -6,6 +6,7 @@ const objectTypes_1 = require("../objects/objectTypes");
 const eventQuery_1 = require("../eventQuery/eventQuery");
 const baseStats_1 = require("./baseStats");
 const move_1 = require("../eventQuery/events/move");
+const inventory_1 = require("./inventory");
 let hungerLimit = 100;
 class creature {
     constructor(options) {
@@ -23,6 +24,7 @@ class creature {
         this.hunger = 0;
         this.baseStats = new baseStats_1.default();
         this.startLiving();
+        this.inventory = new inventory_1.default();
     }
     move(direction) {
         if (this.isAlive) {

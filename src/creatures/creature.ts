@@ -5,6 +5,7 @@ import objectTypes from "../objects/objectTypes";
 import eventQuery from "../eventQuery/eventQuery";
 import baseStats from './baseStats';
 import MoveEvent from '../eventQuery/events/move';
+import inventory from "./inventory";
 
 let hungerLimit = 100;
 
@@ -22,7 +23,10 @@ export default class creature implements mapObject {
         this.baseStats = new baseStats();
 
         this.startLiving();
+        this.inventory = new inventory();
     }
+
+    inventory: inventory;
     age = 0;
     isAlive = true;
     type = objectTypes.creature;
@@ -43,7 +47,7 @@ export default class creature implements mapObject {
         console.log("%s : %d / %d, H : %d", this.id, this.age, this.lifeTime, this.hunger);
         console.log("Position : (%d, %d)", this.position.axisX, this.position.axisY);
         this.age++;
-        this.hunger++
+        this.hunger++;
         if (this.age >= this.lifeTime || this.hunger === hungerLimit) {
             this.isAlive = false;
             console.log("Creature %s has died.", this.id);
