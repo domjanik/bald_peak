@@ -4,6 +4,7 @@ class inventory {
     constructor() {
         this.equipped = {};
         this.equipment = new Array();
+        this.maxInventorySize = 10;
     }
     getNewInventoryId() {
         const defaultIdLenght = 5;
@@ -24,9 +25,19 @@ class inventory {
         this.equipment.push({ ...this.equipped[slotId] });
         this.equipped[slotId] = null;
     }
+    useItem(item) {
+        if (item.action) {
+            item.action();
+        }
+    }
     addToInventory(item) {
-        item.inventory_id = this.getNewInventoryId();
-        this.equipment.push(item);
+        if (this.equipment.length < this.maxInventorySize) {
+            item.inventory_id = this.getNewInventoryId();
+            this.equipment.push(item);
+        }
+        else {
+            throw new Error("Inventory is full");
+        }
     }
     getFromInventoryByItemId(itemId) {
         let itemIndex = this.equipment.findIndex((item) => { return item.id === itemId; });

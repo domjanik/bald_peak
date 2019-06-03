@@ -6,6 +6,7 @@ import eventQuery from "../eventQuery/eventQuery";
 import baseStats from './baseStats';
 import MoveEvent from '../eventQuery/events/move';
 import inventory from "./inventory";
+import itemInterface from '../items/itemInterface';
 
 let hungerLimit = 100;
 
@@ -36,6 +37,18 @@ export default class creature implements mapObject {
     speed: number;
     hunger: number;
     baseStats: baseStats;
+
+    addItem(item: itemInterface) {
+        this.inventory.addToInventory(item);
+    }
+
+    useItem(item: itemInterface) {
+        this.inventory.useItem(item);
+    }
+
+    removeItem(item: itemInterface) {
+        this.inventory.removeFromInventory(item);
+    }
 
     move(direction) {
         if (this.isAlive) {

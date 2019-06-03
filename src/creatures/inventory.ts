@@ -4,10 +4,12 @@ export default class inventory {
     constructor() {
         this.equipped = {}
         this.equipment = new Array<itemInterface>();
+        this.maxInventorySize = 10;
     }
     private equipped: {};
 
     equipment: itemInterface[];
+    maxInventorySize: number;
 
     getNewInventoryId(): string {
         const defaultIdLenght = 5;
@@ -33,9 +35,19 @@ export default class inventory {
         this.equipped[slotId] = null;
     }
 
+    useItem(item: itemInterface): void {
+        if(item.action) {
+            item.action();
+        }
+    }
+
     addToInventory(item): void {
-        item.inventory_id = this.getNewInventoryId();
-        this.equipment.push(item);
+        if(this.equipment.length < this.maxInventorySize) {
+            item.inventory_id = this.getNewInventoryId();
+            this.equipment.push(item);
+        } else {
+            throw new Error("Inventory is full");            
+        }
     }
 
     getFromInventoryByItemId(itemId): itemInterface {

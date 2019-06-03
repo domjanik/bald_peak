@@ -3,4 +3,6 @@ export default interface itemInterface {
     id: string;
     inventory_id: string;
     equiped: boolean;
+
+    action: () => Promise<any>;
 }

@@ -26,6 +26,15 @@ class creature {
         this.startLiving();
         this.inventory = new inventory_1.default();
     }
+    addItem(item) {
+        this.inventory.addToInventory(item);
+    }
+    useItem(item) {
+        this.inventory.useItem(item);
+    }
+    removeItem(item) {
+        this.inventory.removeFromInventory(item);
+    }
     move(direction) {
         if (this.isAlive) {
             eventQuery_1.default.addEvent(new move_1.default(this.id, direction, this.speed));

@@ -8,6 +8,9 @@ import human from "../creatures/human";
 import objectController from "../controllers/objectController";
 import eventQuery from "../eventQuery/eventQuery";
 import MoveEvent from '../eventQuery/events/move';
+import AddItemEvent from '../eventQuery/events/addItem';
+import RemoveItemEvent from '../eventQuery/events/removeItem';
+import UseItemEvent from '../eventQuery/events/useItem';
 import creature from "../creatures/creature";
 import directions from '../constants/directions';
 import obstacle from "../objects/obstacle";
@@ -47,6 +50,25 @@ export default function runApi() {
         obstacleController.addObstacle(new obstacle(params.axisX,params.axisY));
         res.status(200).send(req.body);
     });
-   http.listen(port, () => console.log(`Example app listening on port ${port}!`));
-   return http;    
+    app.post("/item/add", (req, res) => {
+        let params = req.body;
+        eventQuery.addEvent(new AddItemEvent(params.id, params.id, params.item));
+        res.status(200).send(req.body);
+    });
+    app.post("/item/use", (req, res) => {
+      let params = req.body;
+      eventQuery.addEvent(new UseItemEvent(params.id, params.id, params.item));
+
+      res.status(200).send(req.body);
+    });
+    app.post("/item/remove", (req, res) => {
+      let params = req.body;
+      eventQuery.addEvent(new RemoveItemEvent(params.id, params.id, params.item));
+
+      res.status(200).send(req.body);
+    });
+    
+    
+    http.listen(port, () => console.log(`Example app listening on port ${port}!`));
+    return http;    
 }

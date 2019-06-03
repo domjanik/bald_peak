@@ -9,6 +9,9 @@ const human_1 = require("../creatures/human");
 const objectController_1 = require("../controllers/objectController");
 const eventQuery_1 = require("../eventQuery/eventQuery");
 const move_1 = require("../eventQuery/events/move");
+const addItem_1 = require("../eventQuery/events/addItem");
+const removeItem_1 = require("../eventQuery/events/removeItem");
+const useItem_1 = require("../eventQuery/events/useItem");
 const obstacle_1 = require("../objects/obstacle");
 const app = express();
 const port = 3000;
@@ -42,6 +45,21 @@ function runApi() {
     app.post("/obstacle/add", (req, res) => {
         let params = req.body;
         obstacleController_1.default.addObstacle(new obstacle_1.default(params.axisX, params.axisY));
+        res.status(200).send(req.body);
+    });
+    app.post("/item/add", (req, res) => {
+        let params = req.body;
+        eventQuery_1.default.addEvent(new addItem_1.default(params.id, params.id, params.item));
+        res.status(200).send(req.body);
+    });
+    app.post("/item/use", (req, res) => {
+        let params = req.body;
+        eventQuery_1.default.addEvent(new useItem_1.default(params.id, params.id, params.item));
+        res.status(200).send(req.body);
+    });
+    app.post("/item/remove", (req, res) => {
+        let params = req.body;
+        eventQuery_1.default.addEvent(new removeItem_1.default(params.id, params.id, params.item));
         res.status(200).send(req.body);
     });
     http.listen(port, () => console.log(`Example app listening on port ${port}!`));
