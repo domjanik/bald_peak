@@ -52,18 +52,18 @@ export default function runApi() {
     });
     app.post("/item/add", (req, res) => {
         let params = req.body;
-        eventQuery.addEvent(new AddItemEvent(params.id, params.id, params.item));
+        eventQuery.addEvent(new AddItemEvent(params.id, params.id, params.itemId));
         res.status(200).send(req.body);
     });
     app.post("/item/use", (req, res) => {
       let params = req.body;
-      eventQuery.addEvent(new UseItemEvent(params.id, params.id, params.item));
+      eventQuery.addEvent(new UseItemEvent(params.id, params.id, params.itemId));
 
       res.status(200).send(req.body);
     });
     app.post("/item/remove", (req, res) => {
       let params = req.body;
-      eventQuery.addEvent(new RemoveItemEvent(params.id, params.id, params.item));
+      eventQuery.addEvent(new RemoveItemEvent(params.id, params.id, params.itemId));
 
       res.status(200).send(req.body);
     });

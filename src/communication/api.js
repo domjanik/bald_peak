@@ -49,17 +49,17 @@ function runApi() {
     });
     app.post("/item/add", (req, res) => {
         let params = req.body;
-        eventQuery_1.default.addEvent(new addItem_1.default(params.id, params.id, params.item));
+        eventQuery_1.default.addEvent(new addItem_1.default(params.id, params.id, params.itemId));
         res.status(200).send(req.body);
     });
     app.post("/item/use", (req, res) => {
         let params = req.body;
-        eventQuery_1.default.addEvent(new useItem_1.default(params.id, params.id, params.item));
+        eventQuery_1.default.addEvent(new useItem_1.default(params.id, params.id, params.itemId));
         res.status(200).send(req.body);
     });
     app.post("/item/remove", (req, res) => {
         let params = req.body;
-        eventQuery_1.default.addEvent(new removeItem_1.default(params.id, params.id, params.item));
+        eventQuery_1.default.addEvent(new removeItem_1.default(params.id, params.id, params.itemId));
         res.status(200).send(req.body);
     });
     http.listen(port, () => console.log(`Example app listening on port ${port}!`));

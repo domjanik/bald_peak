@@ -18,7 +18,7 @@ class MoveEvent {
         if (!movedObject) {
             return false;
         }
-        if (movedObject.id === eventTargetId && !movedObject.alive) {
+        if (movedObject.id === eventTargetId && !movedObject.isAlive) {
             return false;
         }
         return true;
