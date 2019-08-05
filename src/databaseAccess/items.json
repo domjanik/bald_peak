@@ -1,0 +1,11 @@
+{
+    "APPLE_001": {
+        "name": "Apple",
+        "actions": [
+            {
+                "action": "restore_hp",
+                "amount": 5
+            }
+        ]
+    }
+}

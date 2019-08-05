@@ -30,6 +30,9 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 const http = require("http").Server(app);
 function runApi() {
+    app.head('', (req, res) => {
+        res.status(200).send();
+    });
     app.get("/", (req, res) => res.send(objectController_1.default.getObjectList()));
     app.post("/creature/add", (req, res) => {
         let params = req.body;

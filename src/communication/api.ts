@@ -33,6 +33,9 @@ app.use(bodyParser.json())
 const http = require("http").Server(app);
 
 export default function runApi() {
+    app.head('', (req, res) => {
+      res.status(200).send();
+    })
     app.get("/", (req, res) => res.send(objectController.getObjectList()));
     app.post("/creature/add", (req, res) => {
         let params = req.body;

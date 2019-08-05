@@ -1,0 +1,1 @@
+{"version":3,"file":"databaseAccess.js","sourceRoot":"","sources":["databaseAccess.ts"],"names":[],"mappings":";;AAAA,IAAI,IAAI,GAAG,OAAO,CAAC,cAAc,CAAC,CAAC;AAEnC;IACI,MAAM,CAAC,MAAM,CAAC,KAAK,EAAE,MAAM;QACvB,OAAO,IAAI,CAAC;IAChB,CAAC;IAED,MAAM,CAAC,MAAM,CAAC,KAAK,EAAE,MAAM;IAE3B,CAAC;CACJ;AARD,iCAQC"}
